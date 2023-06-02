@@ -14,7 +14,7 @@
 
 [截止：6.15] [北京大学未来技术学院关于举办 “2023年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
 
-[截止：6.12] [北京大学前沿交叉学科研究院关于举办2023年交叉学科优秀大学生夏令营的通知]htm](https://mp.weixin.qq.com/s/QD6xgd7ZacoIQsQLFzmy9w)
+[截止：6.12] [北京大学前沿交叉学科研究院关于举办2023年交叉学科优秀大学生夏令营的通知](https://mp.weixin.qq.com/s/QD6xgd7ZacoIQsQLFzmy9w)
 
 [截止：6.14] [北京大学电子学院关于举办2023年优秀大学生夏令营的通知](https://ele.pku.edu.cn/info/1232/2633.htm)
 
@@ -45,6 +45,8 @@
 [截止：6.18] [2023年南京大学电子科学与工程学院优秀大学生夏令营报名通知](https://ese.nju.edu.cn/89/9b/c22538a625051/page.htm)
 
 [截止：6.12] [南京大学集成电路学院2023年暑期夏令营招募通知](https://ese.nju.edu.cn/8b/8e/c22538a625550/page.htm)
+
+[截止：6.16] [南京大学人工智能学院2023 年本科生开放日(夏令营)报名通知](https://ai.nju.edu.cn/8c/72/c53055a625778/page.htm)
 
 [截止：6.20] [南京大学计算机科学与技术系2023年本科生开放日(夏令营)报名通知](https://cs.nju.edu.cn/8b/3d/c1702a625469/page.htm)
 
