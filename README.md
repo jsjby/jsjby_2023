@@ -16,6 +16,8 @@
 
 [截止：6.5] [中山大学电子与通信工程学院2023年全国优秀大学生夏令营报名通知](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)
 
+[截止：6.17 18点] [中山大学微电子科学与技术学院2023年全国优秀大学生夏令营报名通知](https://mst.sysu.edu.cn/article/837)
+
 [截止：6.9] [2023年华东师范大学中法联合培养夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)
 
 [截止：6.20] [2023年华东师范大学 数据科学与工程学院 第十一届 云计算与大数据优秀大学生夏令营活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051520140103134343)
