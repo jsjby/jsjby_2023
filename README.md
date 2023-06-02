@@ -48,10 +48,14 @@
 
 
 ##### 计算机保研交流一群：1080150860（近2000人）
-<img src="https://github.com/jsjby/jsjby_2023/blob/main/images/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" >
+<img src="https://github.com/jsjby/jsjby_2023/blob/main/images/微信群.jpg" width="80%">
 
-##### 微信公众号：计算机保研信息平台
-<img src="https://github.com/jsjby/jsjby_2023/blob/main/images/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%9D%E7%A0%94QQ%E7%BE%A4.png">
+
+##### 计算机保研资料领取
+<figure class="half">
+    <img src="https://github.com/jsjby/jsjby_2023/blob/main/images/学校资料-2.pic.jpg" width="80%">
+    <img src="https://github.com/jsjby/jsjby_2023/blob/main/images/学校资料-2.pic.jpg" width="80%">
+</figure>
 
 ## 往年计算机保研经验帖
 [2022年计算机保研经验帖](https://github.com/jsjby/jsjby_2023/blob/main/22%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%9D%E7%A0%94%E7%BB%8F%E9%AA%8C%E5%B8%96.md)
