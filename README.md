@@ -28,6 +28,8 @@
 
 [截止：6.15] [南方科技大学创新创业学院2023年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/Z-51yv4t7ldY_G9_FM-J4g)
 
+[截止：6.15] [南科大系统设计与智能制造学院2023年全国优秀大学生夏令营报名通知](https://sdim.sustech.edu.cn/index/show?id=244)
+
 [截止：8.1] [杭州电子科技大学“智能信息处理实验室”2023年大学生暑期夏令营通知](http://iipl.net.cn/index/article/id/172.aspx)
 
 [截止：6.18] [2023年南京大学电子科学与工程学院优秀大学生夏令营报名通知](https://ese.nju.edu.cn/89/9b/c22538a625051/page.htm)
