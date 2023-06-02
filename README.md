@@ -14,6 +14,8 @@
 
 [截止：8.1] [杭州电子科技大学“智能信息处理实验室”2023年大学生暑期夏令营通知](http://iipl.net.cn/index/article/id/172.aspx)
 
+[截止：6.15] [南方科技大学深港微电子学院2023年优秀大学生夏令营报名通知](https://sme.sustech.edu.cn/index/news/neiye/id/627.html)
+
 [截止：6.20] [电子科大基础与前沿研究院2023年第八届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](https://www.iffs.uestc.edu.cn/info/1032/5566.htm)
 
 [截止：6.15] [南信大人工智能学院（未来技术学院）优秀大学生、研究生夏令营](https://rgzn.nuist.edu.cn/info/1033/2842.htm)
