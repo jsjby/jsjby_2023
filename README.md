@@ -24,6 +24,7 @@
 
 [截止：5.31] [2023年复旦大学微电子学院集成电路融合全国优秀大学生夏令营活动通知](https://sme.fudan.edu.cn/7c/18/c29363a490520/page.htm)
 
+[截止：5.31] [2023年复旦大学人类表型组研究院全国优秀大学生夏令营活动通知](https://hupi.fudan.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1041&wbnewsid=2694)
 
 [截止：6.10] [香港中文大学（深圳）数据科学理学硕士项目2024级夏令营 - 体验营招生火热进行中](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q))
 
