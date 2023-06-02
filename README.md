@@ -66,6 +66,8 @@
 
 [截止：6.20] [2023年中国科学院深圳先进技术研究院合成生物学研究所“第七届合成生物学青年夏令营](https://mp.weixin.qq.com/s/-id1OgPP9djCU7QWdkYIbQ)
 
+[截止：6.28] [2023年中国科学院计算机网络信息中心“网络与计算”夏令营通知](http://cnic.cas.cn/yjsjy/tzgg/202305/t20230518_6758322.html)
+
 [截止：暂无] [2023年中国科学院国家授时中心“时间之旅”夏令营招募通知](https://mp.weixin.qq.com/s/aJ7xEgburUJTtNo1ufsLqw)
 
 [截止：6.25] [中国科学院新疆理化所“2023走进中科院，看大美之疆”大学生夏令营报名通知](http://www.xjipc.cas.cn/yjs/tzgg/202305/t20230516_6755162.html)
