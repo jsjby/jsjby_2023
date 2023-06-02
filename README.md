@@ -46,6 +46,8 @@
 
 [截止：6.11] [2023年中国科学院大学（华大专项）夏令营通知](https://mp.weixin.qq.com/s/LcgovttX-ZDYlJsHfBeFYw)
 
+[截止：7.1] [中国科学院软件研究所2023年全国大学生“软件与网络”夏令营招生通知](https://admission.ucas.edu.cn/showarticle/Article/f824c2a9-f94a-48c7-bbe2-a4bf2a22bcab/3e1fce05-30fd-415e-9429-216b3ca8be09)
+
 [截止：6.20] [中国科学院上海微系统与信息技术研究所2023年夏令营报名通知](https://mp.weixin.qq.com/s/MURm4j4v1TCjZkxzI5iw_g)
 
 [截止：5.28] [2023年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/Y_aV_mV-PjREgPlrmPW2Cg)
