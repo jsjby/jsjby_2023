@@ -34,6 +34,8 @@
 
 [截止：6.9] [2023年清华大学集成电路学院全国优秀大学生夏令营通知](https://www.ime.tsinghua.edu.cn/info/1041/1891.htm)
 
+[截止：6.10] [2023年清华大学信息光电子研究所线上夏令营活动报名通知](https://www.ee.tsinghua.edu.cn/info/1078/4057.htm))
+
 [截止：6.15] [南方科技大学深港微电子学院2023年优秀大学生夏令营报名通知](https://sme.sustech.edu.cn/index/news/neiye/id/627.html)
 
 [截止：6.20] [电子科大基础与前沿研究院2023年第八届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](https://www.iffs.uestc.edu.cn/info/1032/5566.htm)
