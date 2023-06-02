@@ -40,6 +40,8 @@
 
 [截止：暂无] [国科大杭州高等研究院关于2023年优秀大学生夏令营报名意向收集的通知](http://hias.ucas.ac.cn/info/1100/4428.htm)
 
+[截止：6.20] [中国科学院微小卫星创新研究院2023年“筑梦星空”暑期大学生夏令营招募通知](https://mp.weixin.qq.com/s/XcCDVlu9Miq4k6pVW16kfw)
+
 [截止：6.11] [2023年中国科学院大学（华大专项）夏令营通知](https://mp.weixin.qq.com/s/LcgovttX-ZDYlJsHfBeFYw)
 
 [截止：5.28] [2023年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/Y_aV_mV-PjREgPlrmPW2Cg)
