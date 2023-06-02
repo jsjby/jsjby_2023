@@ -14,6 +14,8 @@
 
 [截止：8.1] [杭州电子科技大学“智能信息处理实验室”2023年大学生暑期夏令营通知](http://iipl.net.cn/index/article/id/172.aspx)
 
+[截止：6.9] [2023年华东师范大学中法联合培养夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)
+
 [截止：6.12] [2023年华东师范大学软件工程学院“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051020179966101311)
 
 [截止：6.9] [2023年清华大学集成电路学院全国优秀大学生夏令营通知](https://www.ime.tsinghua.edu.cn/info/1041/1891.htm)
