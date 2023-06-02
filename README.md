@@ -12,6 +12,8 @@
 ## 23年计算机夏令营通知
 [截止：2.28] [2023年中国科学院自动化研究所“人工智能菁英班”项目申报通知](https://mp.weixin.qq.com/s?__biz=MzkzNjM4MDA0NA==&mid=2247483780&idx=3&sn=11fd7b14f9b37bf0dadd4ed0c5ad2b7f&chksm=c29ed267f5e95b715ca7ccd469a9b191c750dacd01c7db168111717ce11b0e52b229ddef89d9&token=496666726&lang=zh_CN#rd)
 
+[截止：6.26] [北京师范大学人工智能学院2023年优秀大学生夏令营](https://ai.bnu.edu.cn/tzgg/542aa8ea1b1a480bb5a86aebd7e3dcd6.html)
+
 [截止：6.15] [北京大学未来技术学院关于举办 “2023年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
 
 [截止：6.12] [北京大学前沿交叉学科研究院关于举办2023年交叉学科优秀大学生夏令营的通知](https://mp.weixin.qq.com/s/QD6xgd7ZacoIQsQLFzmy9w)
