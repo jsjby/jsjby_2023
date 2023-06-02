@@ -22,6 +22,12 @@
 
 [截止：暂无] [国科大杭州高等研究院关于2023年优秀大学生夏令营报名意向收集的通知](http://hias.ucas.ac.cn/info/1100/4428.htm)
 
+[截止：6.30] [上海科技大学生物医学工程学院2023年大学生夏令营活动通知](上科大生物医学工程学院2023年大学生夏令营活动通知 (shanghaitech.edu.cn))
+
+[截止：5.31 17点] [复旦大学大数据学院2023年全国优秀大学生夏令营活动通知](复旦大学大数据学院2023年全国优秀大学生夏令营活动通知)
+
+
+
 ## 计算机保研面试视频
 **哔哩哔哩账号主页:** &nbsp; [计算机保研](https://space.bilibili.com/258646084) &nbsp; [计算机保研之必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web) [2022计算机保研必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web)<br />
 ![bilibili主页](https://github.com/jsjby/jsjby_2023/blob/main/images/B%E7%AB%99%E5%AE%A3%E4%BC%A0.png)
