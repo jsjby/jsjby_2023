@@ -70,6 +70,8 @@
 
 [截止：5.15] [中科院计算所2023年计算机科学研究能力培养“春闱计划”招募通知](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)
 
+[截止：6.11] [2023年中国科学院电工研究所电气工程大学生夏令营活动通知](http://www.iee.cas.cn/yjsjy/zsgg/2023_197294/202305/t20230515_6754473.html)
+
 [截止：7.1] [中国科学院软件研究所2023年全国大学生“软件与网络”夏令营招生通知](https://admission.ucas.edu.cn/showarticle/Article/f824c2a9-f94a-48c7-bbe2-a4bf2a22bcab/3e1fce05-30fd-415e-9429-216b3ca8be09)
 
 [截止：6.20] [中国科学院上海微系统与信息技术研究所2023年夏令营报名通知](https://mp.weixin.qq.com/s/MURm4j4v1TCjZkxzI5iw_g)
