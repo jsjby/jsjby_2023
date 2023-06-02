@@ -14,6 +14,8 @@
 
 [截止：6.15] [北京大学未来技术学院关于举办 “2023年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
 
+[截止：6.12] [北京大学前沿交叉学科研究院关于举办2023年交叉学科优秀大学生夏令营的通知]htm](https://mp.weixin.qq.com/s/QD6xgd7ZacoIQsQLFzmy9w)
+
 [截止：6.14] [北京大学电子学院关于举办2023年优秀大学生夏令营的通知](https://ele.pku.edu.cn/info/1232/2633.htm)
 
 [截止：6.25] [北京大学信息工程学院关于举办“2023年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2607.htm)
