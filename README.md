@@ -14,6 +14,8 @@
 
 [截止：8.1] [杭州电子科技大学“智能信息处理实验室”2023年大学生暑期夏令营通知](http://iipl.net.cn/index/article/id/172.aspx)
 
+[截止：6.5] [中山大学电子与通信工程学院2023年全国优秀大学生夏令营报名通知](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)
+
 [截止：6.9] [2023年华东师范大学中法联合培养夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)
 
 [截止：6.19] [2023年华东师范大学计算机科学与技术学院夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050420050017104300)
