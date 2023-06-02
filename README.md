@@ -14,6 +14,16 @@
 
 [截止：6.26] [北京师范大学人工智能学院2023年优秀大学生夏令营](https://ai.bnu.edu.cn/tzgg/542aa8ea1b1a480bb5a86aebd7e3dcd6.html)
 
+[截止：6.10] [自动化学院关于举办“中南大学2023年优秀大学生暑期夏令营”活动的通知](https://soa.csu.edu.cn/info/1032/7026.htm)
+
+[截止：6.14] [西安交通大学电子与信息学部-信息与通信工程学院2023年（第四届）全国优秀大学生夏令营通知](http://dice.xjtu.edu.cn/info/1009/2667.htm)
+
+[截止：6.20] [西安交通大学电信学部—软件学院2023年（第七届）优秀大学生夏令营通知](http://se.xjtu.edu.cn/info/1043/2614.htm)
+
+[截止：暂无] [西安交通大学电信学部-网络空间安全学院 2023年（第五届）全国优秀大学生夏令营通知](http://cybersec.xjtu.edu.cn/info/1017/1823.htm)
+
+[截止：6.26] [北京师范大学人工智能学院2023年优秀大学生夏令营](https://ai.bnu.edu.cn/tzgg/542aa8ea1b1a480bb5a86aebd7e3dcd6.html)
+
 [截止：6.18] [西安交通大学电子与信息学部电子科学与工程学院 2023年优秀大学生夏令营通知](http://esteie.xjtu.edu.cn/info/1051/2652.htm)
 
 [截止：6.15] [西安交通大学电信学部-微电子学院2023年（第四届）全国优秀大学生夏令营通知](http://ele.xjtu.edu.cn/info/1013/2042.htm)
@@ -21,6 +31,8 @@
 [截止：6.30] [2023年中国科学技术大学先进技术研究院-第四届创新应用夏令营报名公告](http://m.xly.ustc.edu.cn/news.php?newsid=925)
 
 [截止：6.25] [中国科学技术大学2023年 第十届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=928)
+
+[截止：6.30] [中国科学技术大学未来技术学院2023年 第二届交叉科学夏令营通知](http://m.xly.ustc.edu.cn/news.php?newsid=948)
 
 [截止：6.30] [中国科学技术大学2023年第六届大数据科学夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=936)
 
@@ -38,9 +50,13 @@
 
 [截止：6.15] [吉林大学通信工程学院2023年全国优秀大学生夏令营通知](http://dce.jlu.edu.cn/info/1032/10026.htm)
 
+[截止：6.25] [吉林大学电子科学与工程学院2023年优秀大学生“向北前行 E研为定”主题夏令营通知](http://ee.jlu.edu.cn/info/1038/7898.htm)
+
 [截止：6.15] [北京大学未来技术学院关于举办 “2023年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
 
 [截止：6.14] [北京大学智能学院关于举办2023年优秀大学生夏令营的通知](https://sai.pku.edu.cn/info/1083/2721.htm)
+
+[截止：6.16] [北京大学软件与微电子学院2023年全国优秀大学生夏令营通知](https://www.ss.pku.edu.cn/admission/admnotice/4456.html)
 
 [截止：6.15] [北京大学计算机学院关于举办2023年优秀大学生夏令营的通知](https://cs.pku.edu.cn/info/1336/4012.htm)
 
@@ -89,6 +105,8 @@
 [截止：6.1] [南开大学2023年 “相约电光”优秀大学生夏令营报名通知](https://ceo.nankai.edu.cn/info/1099/3733.htm)
 
 [截止：6.15] [浙江大学信息与电子工程学院2023年全国优秀大学生暑期学术夏令营活动通知](http://www.isee.zju.edu.cn/2023/0517/c21109a2758376/page.htm)
+
+[截止：6.18] [浙江大学良渚实验室关于开展2023年暑期夏令营的通知](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1103)
 
 [截止：6.24] [浙江大学软件学院关于举办2023年优秀大学生夏令营活动的通知](http://www.cst.zju.edu.cn/2023/0525/c32178a2762914/page.htm)
 
@@ -183,6 +201,8 @@
 [截止：6.20] [中国科学院上海高等研究院 “梦筑高研” 2023年大学生暑期夏令营活动通知](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202305/t20230505_6749000.html)
 
 [截止：暂无] [国科大杭州高等研究院关于2023年优秀大学生夏令营报名意向收集的通知](http://hias.ucas.ac.cn/info/1100/4428.htm)
+
+[截止：6.12] [国科大杭州高等研究院智能科学与技术学院2023年优秀大学生夏令营营员招募启事](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)
 
 [截止：6.20] [中国科学院微小卫星创新研究院2023年“筑梦星空”暑期大学生夏令营招募通知](https://mp.weixin.qq.com/s/XcCDVlu9Miq4k6pVW16kfw)
 
