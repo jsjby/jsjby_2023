@@ -18,6 +18,8 @@
 
 [截止：6.9] [2023年华东师范大学中法联合培养夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)
 
+[截止：6.20] [2023年华东师范大学 数据科学与工程学院 第十一届 云计算与大数据优秀大学生夏令营活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051520140103134343)
+
 [截止：6.19] [2023年华东师范大学计算机科学与技术学院夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050420050017104300)
 
 [截止：6.12] [2023年华东师范大学软件工程学院“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051020179966101311)
