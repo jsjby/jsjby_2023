@@ -12,7 +12,9 @@
 ## 23年计算机夏令营通知
 [截止：2.28] [2023年中国科学院自动化研究所“人工智能菁英班”项目申报通知](https://mp.weixin.qq.com/s?__biz=MzkzNjM4MDA0NA==&mid=2247483780&idx=3&sn=11fd7b14f9b37bf0dadd4ed0c5ad2b7f&chksm=c29ed267f5e95b715ca7ccd469a9b191c750dacd01c7db168111717ce11b0e52b229ddef89d9&token=496666726&lang=zh_CN#rd)
 
-[截止：6.20] [2023年山东大学青岛理论与计算科学研究院“优秀大学生暑期夏令营”活动通知](http://www.qitcs.qd.sdu.edu.cn/info/1031/1562.htm))
+[截止：6.20] [2023年山东大学青岛理论与计算科学研究院“优秀大学生暑期夏令营”活动通知](http://www.qitcs.qd.sdu.edu.cn/info/1031/1562.htm)
+
+[截止：6.25] [上海财经大学交叉科学研究院关于举办2023年“上财交叉科学研究院直博生和硕博连读生选拔夏令营”的通知](https://riis.sufe.edu.cn/jxChinese/0e/e9/c10273a200425/page.htm)
 
 [截止：6.15] [南方科技大学创新创业学院2023年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/Z-51yv4t7ldY_G9_FM-J4g)
 
