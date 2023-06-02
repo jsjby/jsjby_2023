@@ -28,6 +28,7 @@
 
 [截止：6.11] [2023年中国科学院大学（华大专项）夏令营通知](https://mp.weixin.qq.com/s/LcgovttX-ZDYlJsHfBeFYw)
 
+[截止：5.28] [2023年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/Y_aV_mV-PjREgPlrmPW2Cg)
 
 [截止：6.30] [上海科技大学生物医学工程学院2023年大学生夏令营活动通知](上科大生物医学工程学院2023年大学生夏令营活动通知 (shanghaitech.edu.cn))
 
