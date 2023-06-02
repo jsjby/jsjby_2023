@@ -16,6 +16,8 @@
 
 [截止：6.15] [北京大学未来技术学院关于举办 “2023年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
 
+[截止：6.14] [北京大学智能学院关于举办2023年优秀大学生夏令营的通知](https://sai.pku.edu.cn/info/1083/2721.htm)
+
 [截止：6.12] [北京大学前沿交叉学科研究院关于举办2023年交叉学科优秀大学生夏令营的通知](https://mp.weixin.qq.com/s/QD6xgd7ZacoIQsQLFzmy9w)
 
 [截止：6.14] [北京大学电子学院关于举办2023年优秀大学生夏令营的通知](https://ele.pku.edu.cn/info/1232/2633.htm)
@@ -97,6 +99,8 @@
 [截止：6.12] [2023年华东师范大学软件工程学院“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051020179966101311)
 
 [截止：6.9] [2023年清华大学集成电路学院全国优秀大学生夏令营通知](https://www.ime.tsinghua.edu.cn/info/1041/1891.htm)
+
+[截止：6.6] [清华大学网络科学与网络空间研究院2023年全国优秀大学生夏令营预通知](https://www.insc.tsinghua.edu.cn/info/1179/3487.htm)
 
 [截止：6.6] [清华大学计算机系2023年全国优秀大学生夏令营报名通知](https://www.cs.tsinghua.edu.cn/info/1087/5460.htm)
 
