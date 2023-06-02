@@ -28,6 +28,8 @@
 
 [截止：5.31] [2023年复旦大学工程与应用技术研究院夏令营活动通知](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)
 
+[截止：5.31] [2023年复旦大学信息科学与工程学院全国优秀大学生夏令营活动通知](http://www.it.fudan.edu.cn/Data/View/4398)
+
 [截止：5.31] [复旦大学数字医学研究中心2024年招生通知](https://miccai.fudan.edu.cn/7b/f7/c34229a490487/page.htm)
 
 [截止：6.10] [香港中文大学（深圳）数据科学理学硕士项目2024级夏令营 - 体验营招生火热进行中](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q))
