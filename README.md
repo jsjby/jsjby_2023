@@ -24,6 +24,8 @@
 
 [截止：6.15] [上海交通大学电子信息与电气工程学院 2024级研究生优秀生源选拔活动通知](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)
 
+[截止：6.27] [上海交通大学密西根学院2024年研究生夏令营选拔活动通知](https://mp.weixin.qq.com/s/fVpZF-630lVsACLvhpU7uQ)
+
 [截止：6.25] [上海财经大学交叉科学研究院关于举办2023年“上财交叉科学研究院直博生和硕博连读生选拔夏令营”的通知](https://riis.sufe.edu.cn/jxChinese/0e/e9/c10273a200425/page.htm)
 
 [截止：6.15] [南方科技大学创新创业学院2023年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/Z-51yv4t7ldY_G9_FM-J4g)
