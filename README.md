@@ -3,9 +3,9 @@
 
 **计算机保研交流一群：**  &nbsp; 1080150860（近2000人）
 
-**微信公众号：**  &nbsp; 计算机保研信息平台
+**微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkzNjM4MDA0NA==&scene=124#wechat_redirect)
 
-**Bilibili主页：**  &nbsp; 计算机保研
+**Bilibili主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
 
 **小红书主页：**  &nbsp; 计算机保研信息平台
 
