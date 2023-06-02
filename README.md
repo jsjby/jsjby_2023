@@ -52,6 +52,8 @@
 
 [截止：6.10] [香港中文大学（深圳）数据科学理学硕士项目2024级夏令营 - 体验营招生火热进行中](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q))
 
+[截止：6.15] [港中大（深圳）理工学院授课型硕士项目2023年全国优秀大学生夏令营活动报名开启](https://sse.cuhk.edu.cn/article/1278)
+
 [截止：6.20] [2023年南开大学“活力软件”优秀大学生夏令营的通知](https://cs.nankai.edu.cn/info/1042/3466.htm)
 
 [截止：6.20] [2023年中国科学院深圳先进技术研究院合成生物学研究所“第七届合成生物学青年夏令营](https://mp.weixin.qq.com/s/-id1OgPP9djCU7QWdkYIbQ)
