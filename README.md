@@ -14,6 +14,8 @@
 
 [截止：6.15] [北京大学未来技术学院关于举办 “2023年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
 
+[截止：6.25] [北京大学信息工程学院关于举办“2023年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2607.htm)
+
 [截止：6.20] [2023年山东大学青岛理论与计算科学研究院“优秀大学生暑期夏令营”活动通知](http://www.qitcs.qd.sdu.edu.cn/info/1031/1562.htm)
 
 [截止：6.18] [海南大学生物医学工程学院2023年全国优秀大学生夏令营招生简章](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)
