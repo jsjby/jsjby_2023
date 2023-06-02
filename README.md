@@ -16,6 +16,14 @@
 
 [截止：6.30] [2023年中国科学技术大学先进技术研究院-第四届创新应用夏令营报名公告](http://m.xly.ustc.edu.cn/news.php?newsid=925)
 
+[截止：6.25] [中国科学技术大学2023年 第十届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=928)
+
+[截止：6.30] [中国科学技术大学2023年第六届大数据科学夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=936)
+
+[截止：6.30] [中国科学技术大学2023年第三届苏州高等研究院夏令营报名通知](https://sz.ustc.edu.cn/xwgg_show/1119.html)
+
+[截止：6.30] [中国科学技术大学2023年 第十届科学岛大学生夏令营报名通知（含环光学院）](https://xly.ustc.edu.cn/news.php?newsid=932)
+
 [截止：6.30] [2023年中国科学技术大学信息科学技术学院- 第十届信息科技夏令营报名通知](http://m.xly.ustc.edu.cn/news.php?newsid=922)
 
 [截止：6.30] [2023年 中国科学大学网络空间安全学院-网络空间与信息安全夏令营报名通知](http://m.xly.ustc.edu.cn/news.php?newsid=924)
