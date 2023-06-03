@@ -7,7 +7,7 @@
 
 **Bilibili主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
 
-**小红书主页：**  &nbsp; 计算机保研信息平台
+**小红书主页：**  &nbsp; [计算机保研信息平台](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)
 
 ## 23年计算机夏令营通知
 
