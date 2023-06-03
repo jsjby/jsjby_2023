@@ -14,6 +14,10 @@
 
 [截止：8.1] [杭州电子科技大学“智能信息处理实验室”2023年大学生暑期夏令营通知](http://iipl.net.cn/index/article/id/172.aspx)
 
+[截止：暂无] [2023年中国科学院国家授时中心“时间之旅”夏令营招募通知](https://mp.weixin.qq.com/s/aJ7xEgburUJTtNo1ufsLqw)
+
+[截止：暂无] [国科大杭州高等研究院关于2023年优秀大学生夏令营报名意向收集的通知](http://hias.ucas.ac.cn/info/1100/4428.htm)
+
 [截止：7.1] [中国科学院软件研究所2023年全国大学生“软件与网络”夏令营招生通知](https://admission.ucas.edu.cn/showarticle/Article/f824c2a9-f94a-48c7-bbe2-a4bf2a22bcab/3e1fce05-30fd-415e-9429-216b3ca8be09)
 
 [截止：6.30] [中国科学技术大学未来技术学院2023年 第二届交叉科学夏令营通知](http://m.xly.ustc.edu.cn/news.php?newsid=948)
@@ -198,29 +202,25 @@
 
 [截止：6.5] [中山大学电子与通信工程学院2023年全国优秀大学生夏令营报名通知](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)
 
-[截止：6.1] [南开大学2023年 “相约电光”优秀大学生夏令营报名通知](https://ceo.nankai.edu.cn/info/1099/3733.htm)
+~~[截止：6.1] [南开大学2023年 “相约电光”优秀大学生夏令营报名通知](https://ceo.nankai.edu.cn/info/1099/3733.htm)
 
-[截止：5.31] [复旦大学大数据学院2023年全国优秀大学生夏令营活动通知](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)
+~~[截止：5.31] [复旦大学大数据学院2023年全国优秀大学生夏令营活动通知](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)
 
-[截止：5.31] [2023年复旦大学智能医学研究院全国优秀大学生夏令营活动方案](https://imi.fudan.edu.cn/info/1033/1323.htm)
+~~[截止：5.31] [2023年复旦大学智能医学研究院全国优秀大学生夏令营活动方案](https://imi.fudan.edu.cn/info/1033/1323.htm)
 
-[截止：5.31] [2023年复旦大学类脑智能科学与技术研究院全国优秀大学生夏令营](https://istbi.fudan.edu.cn/info/1167/4890.htm)
+~~[截止：5.31] [2023年复旦大学类脑智能科学与技术研究院全国优秀大学生夏令营](https://istbi.fudan.edu.cn/info/1167/4890.htm)
 
-[截止：5.31] [2023年复旦大学微电子学院集成电路融合全国优秀大学生夏令营活动通知](https://sme.fudan.edu.cn/7c/18/c29363a490520/page.htm)
+~~[截止：5.31] [2023年复旦大学微电子学院集成电路融合全国优秀大学生夏令营活动通知](https://sme.fudan.edu.cn/7c/18/c29363a490520/page.htm)
 
-[截止：5.31] [2023年复旦大学人类表型组研究院全国优秀大学生夏令营活动通知](https://hupi.fudan.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1041&wbnewsid=2694)
+~~[截止：5.31] [2023年复旦大学人类表型组研究院全国优秀大学生夏令营活动通知](https://hupi.fudan.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1041&wbnewsid=2694)
 
-[截止：5.31] [2023年复旦大学工程与应用技术研究院夏令营活动通知](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)
+~~[截止：5.31] [2023年复旦大学工程与应用技术研究院夏令营活动通知](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)
 
-[截止：5.31] [2023年复旦大学信息科学与工程学院全国优秀大学生夏令营活动通知](http://www.it.fudan.edu.cn/Data/View/4398)
+~~[截止：5.31] [2023年复旦大学信息科学与工程学院全国优秀大学生夏令营活动通知](http://www.it.fudan.edu.cn/Data/View/4398)
 
-[截止：5.31] [复旦大学数字医学研究中心2024年招生通知](https://miccai.fudan.edu.cn/7b/f7/c34229a490487/page.htm)
+~~[截止：5.31] [复旦大学数字医学研究中心2024年招生通知](https://miccai.fudan.edu.cn/7b/f7/c34229a490487/page.htm)
 
-[截止：5.31 17点] [复旦大学大数据学院2023年全国优秀大学生夏令营活动通知](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)
-
-[截止：暂无] [2023年中国科学院国家授时中心“时间之旅”夏令营招募通知](https://mp.weixin.qq.com/s/aJ7xEgburUJTtNo1ufsLqw)
-
-[截止：暂无] [国科大杭州高等研究院关于2023年优秀大学生夏令营报名意向收集的通知](http://hias.ucas.ac.cn/info/1100/4428.htm)
+~~[截止：5.31 17点] [复旦大学大数据学院2023年全国优秀大学生夏令营活动通知](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)
 
 ~~[截止：5.28] [2023年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/Y_aV_mV-PjREgPlrmPW2Cg)~~
 
