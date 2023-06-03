@@ -231,11 +231,11 @@
 
 
 
-#### 计算机保研交流一群：1080150860（近2000人）
+### 计算机保研交流一群：1080150860（近2000人）
 <img src="https://github.com/jsjby/jsjby_2023/blob/main/images/微信群.jpg" width="80%">
 
 
-#### 计算机保研资料领取
+### 计算机保研资料领取
 <figure class="half">
     <img src="https://github.com/jsjby/jsjby_2023/blob/main/images/学校资料-2.pic.jpg" width="80%">
     <img src="https://github.com/jsjby/jsjby_2023/blob/main/images/学校资料-2.pic.jpg" width="80%">
