@@ -228,22 +228,21 @@
 
 
 
-## 计算机保研面试视频
-**哔哩哔哩账号主页:** &nbsp; [计算机保研](https://space.bilibili.com/258646084) &nbsp; [计算机保研之必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web) [2022计算机保研必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web)<br />
-![bilibili主页](https://github.com/jsjby/jsjby_2023/blob/main/images/B%E7%AB%99%E5%AE%A3%E4%BC%A0.png)
-
-
-##### 计算机保研交流一群：1080150860（近2000人）
+#### 计算机保研交流一群：1080150860（近2000人）
 <img src="https://github.com/jsjby/jsjby_2023/blob/main/images/微信群.jpg" width="80%">
 
 
-##### 计算机保研资料领取
+#### 计算机保研资料领取
 <figure class="half">
     <img src="https://github.com/jsjby/jsjby_2023/blob/main/images/学校资料-2.pic.jpg" width="80%">
     <img src="https://github.com/jsjby/jsjby_2023/blob/main/images/学校资料-2.pic.jpg" width="80%">
 </figure>
 
-## 往年计算机保研经验帖
+### 计算机保研面试视频
+**哔哩哔哩账号主页:** &nbsp; [计算机保研](https://space.bilibili.com/258646084) &nbsp; [计算机保研之必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web) [2022计算机保研必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web)<br />
+![bilibili主页](https://github.com/jsjby/jsjby_2023/blob/main/images/B%E7%AB%99%E5%AE%A3%E4%BC%A0.png)
+
+### 往年计算机保研经验帖
 [2022年计算机保研经验帖](https://github.com/jsjby/jsjby_2023/blob/main/22%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%9D%E7%A0%94%E7%BB%8F%E9%AA%8C%E5%B8%96.md)
 
 [2021年计算机保研经验帖](https://github.com/jsjby/jsjby_2023/blob/main/21%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%9D%E7%A0%94%E7%BB%8F%E9%AA%8C%E5%B8%96.md)
