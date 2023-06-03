@@ -222,9 +222,9 @@
 
 [截止：暂无] [国科大杭州高等研究院关于2023年优秀大学生夏令营报名意向收集的通知](http://hias.ucas.ac.cn/info/1100/4428.htm)
 
-[截止：5.28] [2023年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/Y_aV_mV-PjREgPlrmPW2Cg)
+~~[截止：5.28] [2023年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/Y_aV_mV-PjREgPlrmPW2Cg)~~
 
-[截止：5.15] [中科院计算所2023年计算机科学研究能力培养“春闱计划”招募通知](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)
+~~[截止：5.15] [中科院计算所2023年计算机科学研究能力培养“春闱计划”招募通知](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
 
 [截止：2.28] [2023年中国科学院自动化研究所“人工智能菁英班”项目申报通知](https://mp.weixin.qq.com/s?__biz=MzkzNjM4MDA0NA==&mid=2247483780&idx=3&sn=11fd7b14f9b37bf0dadd4ed0c5ad2b7f&chksm=c29ed267f5e95b715ca7ccd469a9b191c750dacd01c7db168111717ce11b0e52b229ddef89d9&token=496666726&lang=zh_CN#rd)
 
