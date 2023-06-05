@@ -163,7 +163,7 @@
 
 [截止：6.15] [厦门大学电子科学与技术学院2023年全国优秀大学生暑期夏令营招生指南](https://ese.xmu.edu.cn/info/1083/16099.htm)
 
-[截止：6.15] [中国科学院大学南京学院第二届优秀大学生暑期学校——“宁”聚青春英才，点亮科学梦想招生通知](https://admission.ucas.ac.cn/showarticle/Article/f17d7cfd-4e6e-4470-be9d-f39e73c73b02/ce80d1cd-e1ec-4483-a636-ba1d579e7439）
+[截止：6.15] [中国科学院大学南京学院第二届优秀大学生暑期学校——“宁”聚青春英才，点亮科学梦想招生通知](https://admission.ucas.ac.cn/showarticle/Article/f17d7cfd-4e6e-4470-be9d-f39e73c73b02/ce80d1cd-e1ec-4483-a636-ba1d579e7439)
 
 [截止：6.15] [武汉大学计算机学院2023年优秀大学生暑期夏令营](https://cs.whu.edu.cn/info/1055/4481.htm)
 
