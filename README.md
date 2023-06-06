@@ -235,13 +235,13 @@
 
 [截止：6.9] [2023年清华大学集成电路学院全国优秀大学生夏令营通知](https://www.ime.tsinghua.edu.cn/info/1041/1891.htm)
 
-[截止：6.6] [南京师范大学计算机与电子信息学院/人工智能学院2023年全国“优秀本科生夏令营”活动公告](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18920)
+~~[截止：6.6] [南京师范大学计算机与电子信息学院/人工智能学院2023年全国“优秀本科生夏令营”活动公告](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18920)~~
 
-[截止：6.6] [清华大学网络科学与网络空间研究院2023年全国优秀大学生夏令营预通知](https://www.insc.tsinghua.edu.cn/info/1179/3487.htm)
+~~[截止：6.6] [清华大学网络科学与网络空间研究院2023年全国优秀大学生夏令营预通知](https://www.insc.tsinghua.edu.cn/info/1179/3487.htm)~~
 
-[截止：6.6] [清华大学计算机系2023年全国优秀大学生夏令营报名通知](https://www.cs.tsinghua.edu.cn/info/1087/5460.htm)
+~~[截止：6.6] [清华大学计算机系2023年全国优秀大学生夏令营报名通知](https://www.cs.tsinghua.edu.cn/info/1087/5460.htm)~~
 
-[截止：6.5] [中山大学电子与通信工程学院2023年全国优秀大学生夏令营报名通知](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)
+~~[截止：6.5] [中山大学电子与通信工程学院2023年全国优秀大学生夏令营报名通知](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)~~
 
 ~~[截止：6.1] [南开大学2023年 “相约电光”优秀大学生夏令营报名通知](https://ceo.nankai.edu.cn/info/1099/3733.htm)~~
 
@@ -267,7 +267,7 @@
 
 ~~[截止：5.15] [中科院计算所2023年计算机科学研究能力培养“春闱计划”招募通知](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
 
-[截止：2.28] [2023年中国科学院自动化研究所“人工智能菁英班”项目申报通知](https://mp.weixin.qq.com/s?__biz=MzkzNjM4MDA0NA==&mid=2247483780&idx=3&sn=11fd7b14f9b37bf0dadd4ed0c5ad2b7f&chksm=c29ed267f5e95b715ca7ccd469a9b191c750dacd01c7db168111717ce11b0e52b229ddef89d9&token=496666726&lang=zh_CN#rd)
+~~[截止：2.28] [2023年中国科学院自动化研究所“人工智能菁英班”项目申报通知](https://mp.weixin.qq.com/s?__biz=MzkzNjM4MDA0NA==&mid=2247483780&idx=3&sn=11fd7b14f9b37bf0dadd4ed0c5ad2b7f&chksm=c29ed267f5e95b715ca7ccd469a9b191c750dacd01c7db168111717ce11b0e52b229ddef89d9&token=496666726&lang=zh_CN#rd)~~
 
 
 
