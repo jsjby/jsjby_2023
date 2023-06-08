@@ -12,6 +12,8 @@
 
 **计算机保研服务介绍：**  &nbsp; <a href="https://github.com/jsjby/jsjby_2023/blob/main/PDF/23年计算机保研方案.pdf" target="_blank">2023年计算机保研服务介绍</a>
 
+**英语专业八级学姐夏令营口语辅导：**  &nbsp; [联系方式](https://www.xiaohongshu.com/user/profile/62fb1441000000000f005176)
+
 ## 23年计算机夏令营通知
 
 
