@@ -275,9 +275,9 @@
 
 [截止：6.10] [中南大学物理与电子学院“2023年优秀大学生暑期夏令营”工作方案](https://wl.csu.edu.cn/info/1058/5771.htm)
 
-[截止：6.9] [2023年华东师范大学中法联合培养夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)
+~~[截止：6.9] [2023年华东师范大学中法联合培养夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)~~
 
-[截止：6.9] [2023年清华大学集成电路学院全国优秀大学生夏令营通知](https://www.ime.tsinghua.edu.cn/info/1041/1891.htm)
+~~[截止：6.9] [2023年清华大学集成电路学院全国优秀大学生夏令营通知](https://www.ime.tsinghua.edu.cn/info/1041/1891.htm)~~
 
 ~~[截止：6.6] [南京师范大学计算机与电子信息学院/人工智能学院2023年全国“优秀本科生夏令营”活动公告](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18920)~~
 
