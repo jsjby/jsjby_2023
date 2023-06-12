@@ -29,11 +29,15 @@
 
 [截止：7.5] [国防科技大学电子科学学院2023 年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/index/index.view)
 
+[截止：7.5] [中国科学技术大学信息科学技术学院自动化系2023年研招夏令营公告](https://auto.ustc.edu.cn/2023/0608/c26085a605356/page.htm)
+
 [截止：7.1] [中国科学院软件研究所2023年全国大学生“软件与网络”夏令营招生通知](https://admission.ucas.edu.cn/showarticle/Article/f824c2a9-f94a-48c7-bbe2-a4bf2a22bcab/3e1fce05-30fd-415e-9429-216b3ca8be09)
 
 [截止：6.30] [中国科学技术大学未来技术学院2023年 第二届交叉科学夏令营通知](http://m.xly.ustc.edu.cn/news.php?newsid=948)
 
 [截止：6.30] [2023年中国科学院合肥研究院第十届科学岛大学生夏令营报名通知](https://www.hf.cas.cn/sbpy/yjsc/zs/dxsxly/202306/t20230603_6768930.html)
+
+[截止：6.30] [国防科技大学计算机学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13078)
 
 [截止：6.30] [2023年中国科学技术大学先进技术研究院-第四届创新应用夏令营报名公告](http://m.xly.ustc.edu.cn/news.php?newsid=925)
 
@@ -95,6 +99,8 @@
 
 [截止：6.25] [北京大学信息工程学院关于举办“2023年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2607.htm)
 
+[截止：6.25] [中国人民大学统计与大数据研究院“2023年全国优秀大学生夏令营”公告](http://isbd.ruc.edu.cn/zsxx/zss/7a7a5c719abf4325aecaffe9459a25f0.htm)
+
 [截止：6.25] [山东大学软件学院2023年全国优秀大学生暑期夏令营活动的通知](https://www.sc.sdu.edu.cn/info/1019/4104.htm)
 
 [截止：6.25] [2023年浙江大学国际联合商学院优秀大学生夏令营申请正式开启！ (zju.edu.cn)](https://zibs.zju.edu.cn/article/2023-summercamp.html)
@@ -128,6 +134,8 @@
 [截止：6.23] [2023年北京邮电大学信息与通信工程学院全国优秀大学生夏令营通知](https://sice.bupt.edu.cn/info/1013/2145.htm)
 
 [截止：6.23] [北京理工大学机电学院2023年全国优秀大学生暑期夏令营招生](https://smen.bit.edu.cn/tzgg1/a8577fddc50d4b8c9c5b3232eafeb3f4.htm)
+
+[截止：6.23] [关于举办“2023年华中科技大学光学与电子信息学院全国优秀大学生夏令营”活动通知](http://oei.hust.edu.cn/info/1054/8217.htm)
 
 [截止：6.22] [北京师范大学地理科学学部“遥感科学与技术”、“地图学与地理信息系统”学科2023年度夏令营报名通知](https://geo.bnu.edu.cn/tzgg/23807b6af2be464a9538531789cda696.html)
 
@@ -188,6 +196,8 @@
 [截止：6.18] [中山大学网络空间安全学院2023年优秀大学生夏令营活动报名通知](https://scst.sysu.edu.cn/news/news02/1409129.htm)
 
 [截止：6.18] [海南大学生物医学工程学院2023年全国优秀大学生夏令营招生简章](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)
+
+[截止：6.18] [西南交通大学电气工程学院2023年优秀大学生暑期学术夏令营](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=A49BFA21CE2467B7)
 
 [截止：6.18] [华中师范大学伍伦贡联合研究院2023年优秀大学生夏令营举办通知](http://uowji.ccnu.edu.cn/info/1033/4206.htm)
 
