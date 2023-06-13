@@ -19,6 +19,8 @@
 
 [截止：暂无] [2023年中国科学院国家授时中心“时间之旅”夏令营招募通知](https://mp.weixin.qq.com/s/aJ7xEgburUJTtNo1ufsLqw)
 
+[截止：暂无] [中国科学技术大学电子工程与信息科学系2023年研招夏令营公告](https://eeis.ustc.edu.cn/2023/0613/c2702a605812/page.htm)
+
 [截止：暂无] [国科大杭州高等研究院关于2023年优秀大学生夏令营报名意向收集的通知](http://hias.ucas.ac.cn/info/1100/4428.htm)
 
 [截止：7.10] [关于举办哈尔滨工业大学电气工程及自动化学院暑期夏令营的通知](http://hitee.hit.edu.cn/post/detail/11708)
@@ -32,6 +34,8 @@
 [截止：7.5] [中国科学技术大学信息科学技术学院自动化系2023年研招夏令营公告](https://auto.ustc.edu.cn/2023/0608/c26085a605356/page.htm)
 
 [截止：7.1] [中国科学院软件研究所2023年全国大学生“软件与网络”夏令营招生通知](https://admission.ucas.edu.cn/showarticle/Article/f824c2a9-f94a-48c7-bbe2-a4bf2a22bcab/3e1fce05-30fd-415e-9429-216b3ca8be09)
+
+[截止：7.1] [2023年北京交通大学软件学院暑期夏令营活动及校内选拔活动通知](http://sse.bjtu.edu.cn/cms/item/943.html)
 
 [截止：6.30] [中国科学技术大学未来技术学院2023年 第二届交叉科学夏令营通知](http://m.xly.ustc.edu.cn/news.php?newsid=948)
 
@@ -65,6 +69,10 @@
 
 [截止：6.30] [2023年 中国科学大学网络空间安全学院-网络空间与信息安全夏令营报名通知](http://m.xly.ustc.edu.cn/news.php?newsid=924)
 
+[截止：6.30] [北京工业大学信息学部“锦时筑梦 且待芳华”2023 年全国优秀大学生夏令营活动方案](https://yanzhao.bjut.edu.cn/info/1025/6521.htm)
+
+[截止：6.29] [国防科技大学电子对抗学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13084)
+
 [截止：6.28] [浙江大学网络空间安全研究中心招收2023年暑期实习生计划](https://icsr.zju.edu.cn/2023/0529/c70139a2764625/page.htm)
 
 [截止：6.28] [浙江大学计算机学院招收2023年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2023/0525/c27011a2763109/page.htm)
@@ -75,11 +83,15 @@
 
 [截止：6.28] [山东大学微电子学院2023年优秀大学生暑期夏令营公告](https://mele.sdu.edu.cn/info/1424/13232.htm)
 
+[截止：6.28] [哈尔滨工业大学电子与信息工程学院2023年暑期夏令营的通知](http://seie.hit.edu.cn/2023/0613/c9263a313877/page.htm)
+
 [截止：6.28] [中山大学智能工程学院2023年交通运输工程学科优秀大学生暑期夏令营招生简章](https://ise.sysu.edu.cn/notice/1409203.htm)
 
 [截止：6.28] [2023年中国科学院计算机网络信息中心“网络与计算”夏令营通知](http://cnic.cas.cn/yjsjy/tzgg/202305/t20230518_6758322.html)
 
 [截止：6.27] [上海交通大学密西根学院2024年研究生夏令营选拔活动通知](https://mp.weixin.qq.com/s/fVpZF-630lVsACLvhpU7uQ)
+
+[截止：6.27] [华南理工大学软件学院2023年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)
 
 [截止：6.27] [华南理工大学吴贤铭智能工程学院 2023 年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)
 
@@ -92,6 +104,14 @@
 [截止：6.26] [首都师范大学信息工程学院“2023年优秀大学生暑期夏令营”通知](https://iec.cnu.edu.cn/ggml/tzgg1/8518e234909a4f27bc0666653c97f70e.htm)
 
 [截止：6.25] [中国科学技术大学2023年 第十届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=928)
+
+[截止：6.25] [山东大学网络空间安全学院（研究院）2023年全国优秀大学生暑期夏令营报名通知](https://cst.qd.sdu.edu.cn/info/1023/2730.htm)
+
+[截止：6.25] [哈尔滨工业大学计算学部关于举办2023年暑期夏令营的通知](http://computing.hit.edu.cn/2023/0613/c11271a313864/page.htm)
+
+[截止：6.25] [国防科技大学前沿交叉学科学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13085)
+
+[截止：6.25] [北京交通大学电子信息工程学院研究生招生暑期夏令营和校内选拔](http://eie.bjtu.edu.cn/WebHtml/newsPage/FDFA73981763629EE050403B57032CBA)
 
 [截止：6.25] [中国人民大学统计与大数据研究院“2023年全国优秀大学生夏令营”公告](http://isbd.ruc.edu.cn/zsxx/zss/7a7a5c719abf4325aecaffe9459a25f0.htm)
 
@@ -113,6 +133,8 @@
 
 [截止：6.25] [国防科技大学智能科学学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13079)
 
+[截止：6.25] [东华大学计算机科学与技术学院2023年（第八届）全国优秀大学生夏令营活动暨“优才计划”专项研究生选拔活动通知](https://cst.dhu.edu.cn/2023/0613/c12723a326789/page.htm)
+
 [截止：6.25] [中国农业大学信息与电气工程学院2023年云端夏令营招生简章](https://ciee.cau.edu.cn/art/2023/6/9/art_26712_962590.html)
 
 [截止：6.25] [华中农业大学信息学院关于开展2023年优秀大学生夏令营活动的通知](http://coi.hzau.edu.cn/info/1015/11091.htm)
@@ -128,6 +150,8 @@
 [截止：6.25] [中国科学院新疆理化所“2023走进中科院，看大美之疆”大学生夏令营报名通知](http://www.xjipc.cas.cn/yjs/tzgg/202305/t20230516_6755162.html)
 
 [截止：6.24] [浙江大学软件学院关于举办2023年优秀大学生夏令营活动的通知](http://www.cst.zju.edu.cn/2023/0525/c32178a2762914/page.htm)
+
+[截止：6.24] [西南大学人工智能学院2023年全国优秀大学生学术夏令营招生简章](http://ai.swu.edu.cn/info/1109/2437.htm)
 
 [截止：6.24] [上海第二工业大学计算机与信息工程学院“电子信息”专业硕士学位点2023年全国优秀大学生夏令营开始招生](http://jxxy.sspu.edu.cn/sx/gzdt/105228.htm)
 
@@ -156,6 +180,8 @@
 [截止：暂无] [西安交通大学电信学部-网络空间安全学院 2023年（第五届）全国优秀大学生夏令营通知](http://cybersec.xjtu.edu.cn/info/1017/1823.htm)
 
 [截止：6.20] [2023年山东大学青岛理论与计算科学研究院“优秀大学生暑期夏令营”活动通知](http://www.qitcs.qd.sdu.edu.cn/info/1031/1562.htm)
+
+[截止：6.20] [厦门大学萨本栋微米纳米科学技术研究院2023年全国优秀大学生暑期夏令营招生简章](https://sbd.xmu.edu.cn/info/1058/4529.htm)
 
 [截止：6.20] [2023年浙江大学控制学院第十二届“控制之旅”学术夏令营公告](http://www.cse.zju.edu.cn/2023/0520/c39333a2759662/page.htm)
 
