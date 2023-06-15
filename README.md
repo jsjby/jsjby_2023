@@ -173,8 +173,6 @@
 
 [截止：6.23] [北京理工大学光电学院2023年全国优秀大学生暑期夏令营报名通知](https://opt.bit.edu.cn/tzgg2/tzgg/8336e7bdd99643d8a5abf952bf188857.htm)
 
-[截止：6.23] [北京理工大学网络空间安全学院2023年全国优秀大学生暑期夏令营招生](https://cst.bit.edu.cn/xxfw/tzgg/9deff63fea694441a1ab4f8c95aae884.htm)
-
 [截止：6.23] [北京理工大学集成电路与电子学院2023年全国优秀大学生暑期夏令营招生](https://ice.bit.edu.cn/xxfw/tzgg1/2af2632a8f6449a9aa26ffe12f382e7c.htm)
 
 [截止：6.23] [北京理工大学机电学院2023年全国优秀大学生暑期夏令营招生](https://smen.bit.edu.cn/tzgg1/a8577fddc50d4b8c9c5b3232eafeb3f4.htm)
@@ -290,6 +288,8 @@
 [截止：6.16] [天津大学佐治亚理工深圳学院2024级研究生招生夏令营活动通知](https://www.gtsi.edu.cn/node/3904)
 
 [截止：6.16] [天津大学自动化学院2024级研究生招生夏令营活动通知](http://seea.tju.edu.cn/info/1031/3822.htm)
+
+[截止：6.15] [北京理工大学网络空间安全学院2023年全国优秀大学生暑期夏令营招生](https://cst.bit.edu.cn/xxfw/tzgg/9deff63fea694441a1ab4f8c95aae884.htm)
 
 [截止：6.15] [中国人民大学高瓴人工智能学院2023年优秀大学生夏令营招生简章](http://ai.ruc.edu.cn/newslist/notice/20230606100.html)
 
