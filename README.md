@@ -325,25 +325,25 @@
 
 [截止：6.17] [中山大学生物医学工程学院2023年优秀大学生夏令营通知](https://bme.sysu.edu.cn/noticezs/1409171.htm)
 
-[截止：6.16] [天津大学医学部2024级研究生招生夏令营活动通知](http://mctu.tju.edu.cn/info/1061/2841.htm)
+~~[截止：6.16] [天津大学医学部2024级研究生招生夏令营活动通知](http://mctu.tju.edu.cn/info/1061/2841.htm)~~
 
-[截止：6.16] [北京大学软件与微电子学院2023年全国优秀大学生夏令营通知](https://www.ss.pku.edu.cn/admission/admnotice/4456.html)
+~~[截止：6.16] [北京大学软件与微电子学院2023年全国优秀大学生夏令营通知](https://www.ss.pku.edu.cn/admission/admnotice/4456.html)~~
 
-[截止：6.16] [浙江大学海洋学院优秀大学生夏令营报名通知](http://oc.zju.edu.cn/2023/0529/c52420a2764712/page.htm)
+~~[截止：6.16] [浙江大学海洋学院优秀大学生夏令营报名通知](http://oc.zju.edu.cn/2023/0529/c52420a2764712/page.htm)~~
 
-[截止：6.16] [华东师范大学通信与电子工程学院2023年优秀大学生夏令营活动](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051020180355134149)
+~~[截止：6.16] [华东师范大学通信与电子工程学院2023年优秀大学生夏令营活动](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051020180355134149)~~
 
-[截止：6.16] [南京大学人工智能学院2023 年本科生开放日(夏令营)报名通知](https://ai.nju.edu.cn/8c/72/c53055a625778/page.htm)
+~~[截止：6.16] [南京大学人工智能学院2023 年本科生开放日(夏令营)报名通知](https://ai.nju.edu.cn/8c/72/c53055a625778/page.htm)~~
 
-[截止：6.16] [天津大学海洋学院2024级研究生招生夏令营活动通知](http://marine.tju.edu.cn/info/1036/3193.htm)
+~~[截止：6.16] [天津大学海洋学院2024级研究生招生夏令营活动通知](http://marine.tju.edu.cn/info/1036/3193.htm)~~
 
-[截止：6.16] [天津大学微电子学院2024级研究生招生夏令营活动通知](http://sme.tju.edu.cn/info/1095/2233.htm)
+~~[截止：6.16] [天津大学微电子学院2024级研究生招生夏令营活动通知](http://sme.tju.edu.cn/info/1095/2233.htm)~~
 
-[截止：6.16] [天津大学新媒体与传播学院2024级研究生招生夏令营活动通知](http://snmc.tju.edu.cn/info/1120/1955.htm)
+~~[截止：6.16] [天津大学新媒体与传播学院2024级研究生招生夏令营活动通知](http://snmc.tju.edu.cn/info/1120/1955.htm)~~
 
-[截止：6.16] [天津大学佐治亚理工深圳学院2024级研究生招生夏令营活动通知](https://www.gtsi.edu.cn/node/3904)
+~~[截止：6.16] [天津大学佐治亚理工深圳学院2024级研究生招生夏令营活动通知](https://www.gtsi.edu.cn/node/3904)~~
 
-[截止：6.16] [天津大学自动化学院2024级研究生招生夏令营活动通知](http://seea.tju.edu.cn/info/1031/3822.htm)
+~~[截止：6.16] [天津大学自动化学院2024级研究生招生夏令营活动通知](http://seea.tju.edu.cn/info/1031/3822.htm)~~
 
 ~~[截止：6.15] [北京理工大学网络空间安全学院2023年全国优秀大学生暑期夏令营招生](https://cst.bit.edu.cn/xxfw/tzgg/9deff63fea694441a1ab4f8c95aae884.htm)~~
 
