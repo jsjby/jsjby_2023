@@ -359,27 +359,27 @@
 
 [截止：6.19] [华东师范大学计算机科学与技术学院2023年夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050420050017104300)
 
-[截止：6.18] [西安交通大学电子与信息学部电子科学与工程学院 2023年优秀大学生夏令营通知](http://esteie.xjtu.edu.cn/info/1051/2652.htm)
+~~[截止：6.18] [西安交通大学电子与信息学部电子科学与工程学院 2023年优秀大学生夏令营通知](http://esteie.xjtu.edu.cn/info/1051/2652.htm)~~
 
-[截止：6.18] [北京邮电大学计算机学院（国家示范性软件学院）2023年研究生招生团队实验室开放日通知](https://scs.bupt.edu.cn/info/1050/3572.htm)
+~~[截止：6.18] [北京邮电大学计算机学院（国家示范性软件学院）2023年研究生招生团队实验室开放日通知](https://scs.bupt.edu.cn/info/1050/3572.htm)~~
 
-[截止：6.18] [中山大学网络空间安全学院2023年优秀大学生夏令营活动报名通知](https://scst.sysu.edu.cn/news/news02/1409129.htm)
+~~[截止：6.18] [中山大学网络空间安全学院2023年优秀大学生夏令营活动报名通知](https://scst.sysu.edu.cn/news/news02/1409129.htm)~~
 
-[截止：6.18] [海南大学生物医学工程学院2023年全国优秀大学生夏令营招生简章](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)
+~~[截止：6.18] [海南大学生物医学工程学院2023年全国优秀大学生夏令营招生简章](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)~~
 
-[截止：6.18] [西南交通大学电气工程学院2023年优秀大学生暑期学术夏令营](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=A49BFA21CE2467B7)
+~~[截止：6.18] [西南交通大学电气工程学院2023年优秀大学生暑期学术夏令营](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=A49BFA21CE2467B7)~~
 
-[截止：6.18] [华中师范大学伍伦贡联合研究院2023年优秀大学生夏令营举办通知](http://uowji.ccnu.edu.cn/info/1033/4206.htm)
+~~[截止：6.18] [华中师范大学伍伦贡联合研究院2023年优秀大学生夏令营举办通知](http://uowji.ccnu.edu.cn/info/1033/4206.htm)~~
 
-[截止：6.18] [浙江大学良渚实验室关于开展2023年暑期夏令营的通知](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1103)
+~~[截止：6.18] [浙江大学良渚实验室关于开展2023年暑期夏令营的通知](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1103)~~
 
-[截止：6.18] [南京大学电子科学与工程学院2023年优秀大学生夏令营报名通知](https://ese.nju.edu.cn/89/9b/c22538a625051/page.htm)
+~~[截止：6.18] [南京大学电子科学与工程学院2023年优秀大学生夏令营报名通知](https://ese.nju.edu.cn/89/9b/c22538a625051/page.htm)~~
 
-[截止：6.18] [中国人民大学信息学院“2023年优秀大学生夏令营”招生简章](http://info.ruc.edu.cn/xwgg/xygg/4315ed614da74272aa1d90bbe7053a71.htm)
+~~[截止：6.18] [中国人民大学信息学院“2023年优秀大学生夏令营”招生简章](http://info.ruc.edu.cn/xwgg/xygg/4315ed614da74272aa1d90bbe7053a71.htm)~~
 
-[截止：6.18] [杭州电子科技大学电子信息学院(集成电路科学与工程学院)2023年优秀大学生暑期夏令营活动](https://elec.hdu.edu.cn/2023/0607/c1787a247189/page.htm)
+~~[截止：6.18] [杭州电子科技大学电子信息学院(集成电路科学与工程学院)2023年优秀大学生暑期夏令营活动](https://elec.hdu.edu.cn/2023/0607/c1787a247189/page.htm)~~
 
-[截止：6.18] [北航计算机学院招收2024年研究生 全国优秀大学生夏令营活动通知](https://scse.buaa.edu.cn/info/1299/9813.htm)
+~~[截止：6.18] [北航计算机学院招收2024年研究生 全国优秀大学生夏令营活动通知](https://scse.buaa.edu.cn/info/1299/9813.htm)~~
 
 ~~[截止：6.17] [浙江大学微纳电子学院2023年全国优秀大学生暑期学术夏令营活动通知](https://mne.zju.edu.cn/2023/0524/c54013a2762408/page.htm)~~
 
