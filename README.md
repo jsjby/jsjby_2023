@@ -57,6 +57,8 @@
 
 [截止：7.4] [武汉大学图像传播与印刷包装研究中心2023年优秀大学生暑期夏令营活动通知](https://pps.whu.edu.cn/info/1346/11851.htm)
 
+[截止：7.4] [云南大学示范性软件学院2023年优秀大学生学术夏令营招生通知](http://www.sei.ynu.edu.cn/info/1057/2113.htm)
+
 [截止：7.3] [中山大学集成电路学院2023年全国优秀大学生暑期夏令营活动报名通知](https://sic.sysu.edu.cn/rc/rc05/1409462.htm)
 
 [截止：7.2] [云南大学信息学院2023年优秀大学生夏令营活动通知](http://www.ise.ynu.edu.cn/annunciations/251)
@@ -69,6 +71,8 @@
 
 [截止：7.2] [华中科技大学网络空间安全学院2023年全国优秀大学生学术夏令营通知](http://cse.hust.edu.cn/info/1079/3723.htm)
 
+[截止：7.2] [南京理工大学电子工程与光电技术学院2023年全国“优秀大学生夏令营”活动公告](https://mp.weixin.qq.com/s/XX41e1wYBeT0eS40S2OwcA)
+
 [截止：7.1] [中国科学院软件研究所2023年全国大学生“软件与网络”夏令营招生通知](https://admission.ucas.edu.cn/showarticle/Article/f824c2a9-f94a-48c7-bbe2-a4bf2a22bcab/3e1fce05-30fd-415e-9429-216b3ca8be09)
 
 [截止：7.1] [[北京交通大学机电学院2024年研究生招生暑期夏令营及校内选拔](https://mece.bjtu.edu.cn/cms/item/4348.html)
@@ -79,7 +83,11 @@
 
 [截止：6.30] [中国科学技术大学电子工程与信息科学系2023年研招夏令营公告](https://eeis.ustc.edu.cn/2023/0613/c2702a605812/page.htm)
 
+[截止：6.30] [四川大学电气工程学院2023年优秀大学生夏令营通知](https://ee.scu.edu.cn/info/1019/8924.htm)
+
 [截止：6.30] [同济大学2023年卓越工程师学院优秀学生暑期学校活动通知](https://yz.tongji.edu.cn/info/1010/3148.htm)
+
+[截止：6.30] [南京理工大学微电子学院（集成电路学院） 2023年全国优秀大学生夏令营活动公告](https://mp.weixin.qq.com/s/WzGjss5vkll8q-0IPquUww)
 
 [截止：6.30] [中国科学技术大学未来技术学院2023年 第二届交叉科学夏令营通知](http://m.xly.ustc.edu.cn/news.php?newsid=948)
 
@@ -133,9 +141,13 @@
 
 [截止：6.29] [东北大学机器人科学与工程学院2023年优秀大学生学术夏令营活动的通知](http://www.rse.neu.edu.cn/2023/0619/c2147a232264/page.htm)
 
+[截止：6.29] [江南大学理学院2023年全国优秀大学生云端夏令营公告](http://science.jiangnan.edu.cn/info/1055/8531.htm)
+
 [截止：6.28] [浙江大学网络空间安全研究中心招收2023年暑期实习生计划](https://icsr.zju.edu.cn/2023/0529/c70139a2764625/page.htm)
 
 [截止：6.28] [南开大学人工智能学院2023年优秀大学生夏令营的通知](https://ai.nankai.edu.cn/info/1024/5363.htm)
+
+[截止：6.28] [重庆邮电大学通信与信息工程学院2023年全国优秀大学生夏令营通知](http://scie.cqupt.edu.cn/info/1027/5302.htm)
 
 [截止：6.28] [浙江大学计算机学院招收2023年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2023/0525/c27011a2763109/page.htm)
 
