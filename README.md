@@ -1,4 +1,4 @@
-# 计算机保研信息平台
+![微信群3](https://github.com/jsjby/jsjby_2023/assets/49928025/67988e02-a39d-4f35-978e-f6e7b12e1e3c)# 计算机保研信息平台
 
 ### 计算机保研面试视频
 **哔哩哔哩账号主页:** &nbsp; [计算机保研](https://space.bilibili.com/258646084) &nbsp; [计算机保研之必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web) [2022计算机保研必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web)<br />
@@ -593,7 +593,7 @@
 
 
 ### 计算机保研交流一群：1080150860（近2000人）
-<img src="https://github.com/jsjby/jsjby_2023/blob/main/images/微信群2.jpg" width="80%">
+<img src="https://github.com/jsjby/jsjby_2023/blob/main/images/微信群3.png" width="80%">
 
 
 ### 计算机保研各个高校面试资料领取（500多页）
