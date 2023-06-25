@@ -263,69 +263,67 @@
 
 [截止：6.26] [北京建筑大学电气与信息工程学院2023年全国优秀大学生夏令营活动方案](https://dxxy.bucea.edu.cn/sylm/tzgg/f556567e67c447d6be706cab08be8c1a.htm)
 
-[截止：6.25] [北京大学数学科学学院全国优秀大学生暑期夏令营（大数据专业硕士）](https://mp.weixin.qq.com/s/MG_qmincNCkix2pnfnH1uA)
+~~[截止：6.25] [北京大学数学科学学院全国优秀大学生暑期夏令营（大数据专业硕士）](https://mp.weixin.qq.com/s/MG_qmincNCkix2pnfnH1uA)~~
 
-[截止：6.25] [电子科技大学2023年“计算机（网安）”全国优秀大学生暑期夏令营通知](https://www.scse.uestc.edu.cn/info/1015/13809.htm)
+~~[截止：6.25] [电子科技大学2023年“计算机（网安）”全国优秀大学生暑期夏令营通知](https://www.scse.uestc.edu.cn/info/1015/13809.htm)~~
 
-[截止：6.25] [北京理工大学数学与统计学院暑期夏令营报名通知](https://math.bit.edu.cn/tzgg/8f8edcaafb37474b9eca90123d235e73.htm)
+~~[截止：6.25] [北京理工大学数学与统计学院暑期夏令营报名通知](https://math.bit.edu.cn/tzgg/8f8edcaafb37474b9eca90123d235e73.htm)~~
 
-[截止：6.25] [中国地质大学（武汉）机械与电子信息学院2023年第九届研招校园开放日活动](https://jidian.cug.edu.cn/info/1097/6810.htm)
+~~[截止：6.25] [中国地质大学（武汉）机械与电子信息学院2023年第九届研招校园开放日活动](https://jidian.cug.edu.cn/info/1097/6810.htm)~~
 
-[截止：6.25] [武汉大学电子信息学院2023年优秀大学生夏令营通知](http://eis.whu.edu.cn/newsDetails_zw.shtml?newskindid=20160320222537823ssNa3Hz69eUHH&newsinfoid=20230616174257654s2tOkj7nt3U9s)
+~~[截止：6.25] [武汉大学电子信息学院2023年优秀大学生夏令营通知](http://eis.whu.edu.cn/newsDetails_zw.shtml?newskindid=20160320222537823ssNa3Hz69eUHH&newsinfoid=20230616174257654s2tOkj7nt3U9s)~~
 
-[截止：6.25] [中国科学技术大学2023年第十届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=928)
+~~[截止：6.25] [中国科学技术大学2023年第十届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=928)~~~~
 
-[截止：6.25] [山东大学网络空间安全学院2023年全国优秀大学生暑期夏令营通知](https://cst.qd.sdu.edu.cn/info/1023/2730.htm)
+~~[截止：6.25] [哈尔滨工业大学计算学部关于举办2023年暑期夏令营的通知](http://computing.hit.edu.cn/2023/0613/c11271a313864/page.htm)~~
 
-[截止：6.25] [哈尔滨工业大学计算学部关于举办2023年暑期夏令营的通知](http://computing.hit.edu.cn/2023/0613/c11271a313864/page.htm)
+~~[截止：6.25] [国防科技大学前沿交叉学科学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13085)~~
 
-[截止：6.25] [国防科技大学前沿交叉学科学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13085)
+~~[截止：6.25] [北京交通大学电子信息工程学院研究生招生暑期夏令营和校内选拔](http://eie.bjtu.edu.cn/WebHtml/newsPage/FDFA73981763629EE050403B57032CBA)~~
 
-[截止：6.25] [北京交通大学电子信息工程学院研究生招生暑期夏令营和校内选拔](http://eie.bjtu.edu.cn/WebHtml/newsPage/FDFA73981763629EE050403B57032CBA)
+~~[截止：6.25] [中国人民大学统计与大数据研究院“2023年全国优秀大学生夏令营”公告](http://isbd.ruc.edu.cn/zsxx/zss/7a7a5c719abf4325aecaffe9459a25f0.htm)~~
 
-[截止：6.25] [中国人民大学统计与大数据研究院“2023年全国优秀大学生夏令营”公告](http://isbd.ruc.edu.cn/zsxx/zss/7a7a5c719abf4325aecaffe9459a25f0.htm)
+~~[截止：6.25] [武汉大学信息管理学院2023年优秀大学生夏令营活动实施方案](http://sim.whu.edu.cn/info/1073/13454.htm)~~
 
-[截止：6.25] [武汉大学信息管理学院2023年优秀大学生夏令营活动实施方案](http://sim.whu.edu.cn/info/1073/13454.htm)
+~~[截止：6.25] [北京大学信息工程学院关于举办“2023年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2607.htm)~~
 
-[截止：6.25] [北京大学信息工程学院关于举办“2023年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2607.htm)
+~~[截止：6.25] [中国人民大学统计与大数据研究院“2023年全国优秀大学生夏令营”公告](http://isbd.ruc.edu.cn/zsxx/zss/7a7a5c719abf4325aecaffe9459a25f0.htm)~~
 
-[截止：6.25] [中国人民大学统计与大数据研究院“2023年全国优秀大学生夏令营”公告](http://isbd.ruc.edu.cn/zsxx/zss/7a7a5c719abf4325aecaffe9459a25f0.htm)
+~~[截止：6.25] [山东大学软件学院2023年全国优秀大学生暑期夏令营活动的通知](https://www.sc.sdu.edu.cn/info/1019/4104.htm)~~
 
-[截止：6.25] [山东大学软件学院2023年全国优秀大学生暑期夏令营活动的通知](https://www.sc.sdu.edu.cn/info/1019/4104.htm)
+~~[截止：6.25] [山东大学计算机科学与技术学院关于举办2023年全国优秀大学生暑期夏令营通知](https://www.cs.sdu.edu.cn/info/1068/5908.htm)~~
 
-[截止：6.25] [山东大学计算机科学与技术学院关于举办2023年全国优秀大学生暑期夏令营通知](https://www.cs.sdu.edu.cn/info/1068/5908.htm)
+~~[截止：6.25] [浙江大学国际联合商学院优秀大学生夏令营申请正式开启](https://zibs.zju.edu.cn/article/2023-summercamp.html)~~
 
-[截止：6.25] [浙江大学国际联合商学院优秀大学生夏令营申请正式开启](https://zibs.zju.edu.cn/article/2023-summercamp.html)
+~~[截止：6.25] [中国科学院第十届生物医学工程夏令营（苏州医工所）报名通知](http://www.sibet.cas.cn/yjsjy2020/zsxx_169599/202306/t20230602_6768496.html)~~
 
-[截止：6.25] [中国科学院第十届生物医学工程夏令营（苏州医工所）报名通知](http://www.sibet.cas.cn/yjsjy2020/zsxx_169599/202306/t20230602_6768496.html)
+~~[截止：6.25] [吉林大学电子科学与工程学院2023年优秀大学生“向北前行 E研为定”主题夏令营通知](http://ee.jlu.edu.cn/info/1038/7898.htm)~~
 
-[截止：6.25] [吉林大学电子科学与工程学院2023年优秀大学生“向北前行 E研为定”主题夏令营通知](http://ee.jlu.edu.cn/info/1038/7898.htm)
+~~[截止：6.25] [浙江大学数据科学研究中心“数据科学与工程”项目优秀大学生夏令营报名通知](http://cds.zju.edu.cn/a/zsxx/3221.html)~~
 
-[截止：6.25] [浙江大学数据科学研究中心“数据科学与工程”项目优秀大学生夏令营报名通知](http://cds.zju.edu.cn/a/zsxx/3221.html)
+~~[截止：6.25] [国防科技大学智能科学学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13079)~~
 
-[截止：6.25] [国防科技大学智能科学学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13079)
+~~[截止：6.25] [东华大学计算机科学与技术学院2023年全国优秀大学生夏令营活动通知](https://cst.dhu.edu.cn/2023/0613/c12723a326789/page.htm)~~
 
-[截止：6.25] [东华大学计算机科学与技术学院2023年全国优秀大学生夏令营活动通知](https://cst.dhu.edu.cn/2023/0613/c12723a326789/page.htm)
+~~[截止：6.25] [中国农业大学信息与电气工程学院2023年云端夏令营招生简章](https://ciee.cau.edu.cn/art/2023/6/9/art_26712_962590.html)~~
 
-[截止：6.25] [中国农业大学信息与电气工程学院2023年云端夏令营招生简章](https://ciee.cau.edu.cn/art/2023/6/9/art_26712_962590.html)
+~~[截止：6.25] [华中农业大学信息学院关于开展2023年优秀大学生夏令营活动的通知](http://coi.hzau.edu.cn/info/1015/11091.htm)~~
 
-[截止：6.25] [华中农业大学信息学院关于开展2023年优秀大学生夏令营活动的通知](http://coi.hzau.edu.cn/info/1015/11091.htm)
+~~[截止：6.25] [北京交通大学计算机与信息技术学院2023年全国优秀大学生暑期夏令营通知](http://scit.bjtu.edu.cn/cms/item/5211.html)~~
 
-[截止：6.25] [北京交通大学计算机与信息技术学院2023年全国优秀大学生暑期夏令营通知](http://scit.bjtu.edu.cn/cms/item/5211.html)
+~~[截止：6.25] [上海财经大学交叉科学研究院关于举办2023年上财交叉科学研究院直博生和硕博连读生选拔夏令营通知](https://riis.sufe.edu.cn/jxChinese/0e/e9/c10273a200425/page.htm)~~
 
-[截止：6.25] [上海财经大学交叉科学研究院关于举办2023年上财交叉科学研究院直博生和硕博连读生选拔夏令营通知](https://riis.sufe.edu.cn/jxChinese/0e/e9/c10273a200425/page.htm)
+~~[截止：6.25] [中山大学软件工程学院2023年全国优秀大学生夏令营报名通知](https://sse.sysu.edu.cn/article/536)~~
 
-[截止：6.25] [中山大学软件工程学院2023年全国优秀大学生夏令营报名通知](https://sse.sysu.edu.cn/article/536)
+~~[截止：6.25] [浙江大学伊利诺伊大学厄巴纳香槟校区联合学院2023年优秀大学生夏令营报名通知](https://zjui.intl.zju.edu.cn/recruit-student/graduate/61)~~
 
-[截止：6.25] [浙江大学伊利诺伊大学厄巴纳香槟校区联合学院2023年优秀大学生夏令营报名通知](https://zjui.intl.zju.edu.cn/recruit-student/graduate/61)
+~~[截止：6.25] [中国科学院新疆理化所“2023走进中科院，看大美之疆”大学生夏令营报名通知](http://www.xjipc.cas.cn/yjs/tzgg/202305/t20230516_6755162.html)~~
 
-[截止：6.25] [中国科学院新疆理化所“2023走进中科院，看大美之疆”大学生夏令营报名通知](http://www.xjipc.cas.cn/yjs/tzgg/202305/t20230516_6755162.html)
+~~[截止：6.25] [电子科技大学集成电路科学与工程学院2023年优秀大学生学术夏令营通知](https://icse.uestc.edu.cn/info/1057/3174.htm)~~
 
-[截止：6.25] [电子科技大学集成电路科学与工程学院2023年优秀大学生学术夏令营通知](https://icse.uestc.edu.cn/info/1057/3174.htm)
+~~[截止：6.25] [中国地质大学（武汉）机械与电子信息学院2023年第九届研招校园开放日活动](https://jidian.cug.edu.cn/info/1097/6810.htm)~~
 
-[截止：6.25] [中国地质大学（武汉）机械与电子信息学院2023年第九届研招校园开放日活动](https://jidian.cug.edu.cn/info/1097/6810.htm)
-
-[截止：6.25] [中国地质大学（武汉）地理与信息工程学院2023年第九届研招校园开放日活动](https://xgxy.cug.edu.cn/info/1055/5604.htm)
+~~[截止：6.25] [中国地质大学（武汉）地理与信息工程学院2023年第九届研招校园开放日活动](https://xgxy.cug.edu.cn/info/1055/5604.htm)~~
 
 ~~[截止：6.24] [浙江大学软件学院关于举办2023年优秀大学生夏令营活动的通知](http://www.cst.zju.edu.cn/2023/0525/c32178a2762914/page.htm)~~
 
