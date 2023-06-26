@@ -261,25 +261,25 @@
 
 [截止：6.27] [四川大学网络空间安全学院2023年优秀大学生暑期夏令营招生](http://ccs.scu.edu.cn/info/1026/3353.htm)
 
-[截止：6.26] [北京师范大学人工智能学院2023年优秀大学生夏令营](https://ai.bnu.edu.cn/tzgg/542aa8ea1b1a480bb5a86aebd7e3dcd6.html)
+~~[截止：6.26] [北京师范大学人工智能学院2023年优秀大学生夏令营](https://ai.bnu.edu.cn/tzgg/542aa8ea1b1a480bb5a86aebd7e3dcd6.html)~~
 
-[截止：6.26] [华中农业大学理学院2023年暑期夏令营活动通知](https://mp.weixin.qq.com/s/XRprbiDfvccBk2gTlGCZMw)
+~~[截止：6.26] [华中农业大学理学院2023年暑期夏令营活动通知](https://mp.weixin.qq.com/s/XRprbiDfvccBk2gTlGCZMw)~~
 
-[截止：6.26] [北京理工大学医学技术学院2023年全国优秀大学生暑期夏令营招生简章](https://smt.bit.edu.cn/tzgg/e563191cf1534cfb9ae83d90b8489def.htm)
+~~[截止：6.26] [北京理工大学医学技术学院2023年全国优秀大学生暑期夏令营招生简章](https://smt.bit.edu.cn/tzgg/e563191cf1534cfb9ae83d90b8489def.htm)~~
 
-[截止：6.26] [东北大学计算机科学与工程学院2023年优秀大学生学术夏令营活动的通知](http://www.cse.neu.edu.cn/2023/0615/c6274a232028/page.htm)
+~~[截止：6.26] [东北大学计算机科学与工程学院2023年优秀大学生学术夏令营活动的通知](http://www.cse.neu.edu.cn/2023/0615/c6274a232028/page.htm)~~
 
-[截止：6.26] [华中科技大学集成电路学院2023年优秀大学生学术夏令营通知](https://ic.hust.edu.cn/info/1242/2394.htm)
+~~[截止：6.26] [华中科技大学集成电路学院2023年优秀大学生学术夏令营通知](https://ic.hust.edu.cn/info/1242/2394.htm)~~
 
-[截止：6.26] [大连理工大学电子信息与电气工程学部2024年优秀大学生学术夏令营通知](http://ee.dlut.edu.cn/info/1028/8565.htm)
+~~[截止：6.26] [大连理工大学电子信息与电气工程学部2024年优秀大学生学术夏令营通知](http://ee.dlut.edu.cn/info/1028/8565.htm)~~
 
-[截止：6.26] [武汉大学遥感信息工程学院学院2023年优秀大学生夏令营活动的通知](https://rsgis.whu.edu.cn/info/1083/11840.htm)
+~~[截止：6.26] [武汉大学遥感信息工程学院学院2023年优秀大学生夏令营活动的通知](https://rsgis.whu.edu.cn/info/1083/11840.htm)~~
 
-[截止：6.26] [首都师范大学信息工程学院2023年优秀大学生暑期夏令营通知](https://iec.cnu.edu.cn/ggml/tzgg1/8518e234909a4f27bc0666653c97f70e.htm)
+~~[截止：6.26] [首都师范大学信息工程学院2023年优秀大学生暑期夏令营通知](https://iec.cnu.edu.cn/ggml/tzgg1/8518e234909a4f27bc0666653c97f70e.htm)~~
 
-[截止：6.26] [国防科技大学系统工程学院2023年全国优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13086)
+~~[截止：6.26] [国防科技大学系统工程学院2023年全国优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13086)~~
 
-[截止：6.26] [北京建筑大学电气与信息工程学院2023年全国优秀大学生夏令营活动方案](https://dxxy.bucea.edu.cn/sylm/tzgg/f556567e67c447d6be706cab08be8c1a.htm)
+~~[截止：6.26] [北京建筑大学电气与信息工程学院2023年全国优秀大学生夏令营活动方案](https://dxxy.bucea.edu.cn/sylm/tzgg/f556567e67c447d6be706cab08be8c1a.htm)~~
 
 ~~[截止：6.25] [北京大学数学科学学院全国优秀大学生暑期夏令营（大数据专业硕士）](https://mp.weixin.qq.com/s/MG_qmincNCkix2pnfnH1uA)~~
 
