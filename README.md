@@ -49,6 +49,8 @@
 
 [截止：7.9] [新疆大学电气工程学院2023年优秀大学生暑期夏令营招募通知](http://dqxy.xju.edu.cn/info/1102/2003.htm)
 
+[截止：7.8] [山东大学威海前沿交叉科学研究院2023年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/VWDU9wgluLsVU3UfBT_0dA)
+
 [截止：7.7] [深圳大学大数据系统计算技术国家工程实验室2024年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/BbLdQ6DwC-SL4mMwj9dJhg)
 
 [截止：7.7] [哈尔滨工业大学（深圳）理学院 2024年全国优秀大学生学术夏令营的通知](http://ssc.hitsz.edu.cn/info/1051/2151.htm)
@@ -61,9 +63,9 @@
 
 [截止：7.7] [哈尔滨工业大学（深圳）计算机科学与技术学院2024年全国优秀大学生学术夏令营的通知](http://cs.hitsz.edu.cn/info/1029/6751.htm)
 
-[截止：7.8] [山东大学威海前沿交叉科学研究院2023年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/VWDU9wgluLsVU3UfBT_0dA)
-
 [截止：7.7] [深圳大学大数据系统计算技术国家工程实验室2023年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/BbLdQ6DwC-SL4mMwj9dJhg)
+
+[截止：7.6] [大连海事大学人工智能学院关于开展2023年优秀大学生学术夏令营活动的通知](https://grs.dlmu.edu.cn/info/1139/8601.htm)
 
 [截止：7.6] [电子科技大学2023年自动化工程学院全国优秀大学生夏令营活动通知](https://www.auto.uestc.edu.cn/info/1045/4612.htm)
 
@@ -79,6 +81,8 @@
 
 [截止：7.5] [山东大学海洋研究院、海洋学院2023年优秀大学生联合夏令营招生](https://www.imst.sdu.edu.cn/info/1080/6655.htm)
 
+[截止：7.5] [华北电力大学电气与电子工程学院关于举办2023年“直通电院”夏令营活动的通知](https://electric.ncepu.edu.cn/zsgz/bsyjszs/af0a40ca22fd4d85bddefd522f2bf056.htm)
+
 [截止：7.5] [中国科学技术大学信息科学技术学院自动化系2023年研招夏令营公告](https://auto.ustc.edu.cn/2023/0608/c26085a605356/page.htm)
 
 [截止：7.4] [武汉大学图像传播与印刷包装研究中心2023年优秀大学生暑期夏令营活动通知](https://pps.whu.edu.cn/info/1346/11851.htm)
@@ -90,6 +94,8 @@
 [截止：7.3] [河海大学能源与电气学院、新能源学院2023年全国优秀大学生夏令营活动有关安排的通知](https://ceee.hhu.edu.cn/2023/0628/c12558a262992/page.htm)
 
 [截止：7.3] [北京邮电大学人工智能学院2023年优秀大学生夏令营活动通知](https://ai.bupt.edu.cn/info/1065/2867.htm)
+
+[截止：7.3] [西南科技大学信息工程学院2023年优秀大学生暑期夏令营 活动的通知](http://www.info.swust.edu.cn/index.php?a=index&f=info&aid=4854&id=40)
 
 [截止：7.3] [大连理工大学软件学院2024年优秀大学生学术夏令营通知](https://ssdut.dlut.edu.cn/info/1122/23584.htm)
 
@@ -128,6 +134,8 @@
 [截止：7.2] [南京理工大学电子工程与光电技术学院2023年全国“优秀大学生夏令营”活动公告](https://mp.weixin.qq.com/s/XX41e1wYBeT0eS40S2OwcA)
 
 [截止：7.1] [中国科学院软件研究所2023年全国大学生“软件与网络”夏令营招生通知](https://admission.ucas.edu.cn/showarticle/Article/f824c2a9-f94a-48c7-bbe2-a4bf2a22bcab/3e1fce05-30fd-415e-9429-216b3ca8be09)
+
+[截止：7.1] [[广东工业大学计算机学院2023年优秀大学生暑期夏令营活动通知](https://computer.gdut.edu.cn/info/2318/3932.htm)
 
 [截止：7.1] [[北京交通大学机电学院2024年研究生招生暑期夏令营及校内选拔](https://mece.bjtu.edu.cn/cms/item/4348.html)
 
