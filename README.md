@@ -221,17 +221,17 @@
 
 [截止：6.30] [中国科学院大学光电学院2023年大学生夏令营](https://admission.ucas.ac.cn/showarticle/Article/f824c2a9-f94a-48c7-bbe2-a4bf2a22bcab/08204c1c-f6c0-45da-877f-a0a78ef4a35c)
 
-[截止：6.29] [国防科技大学电子对抗学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13084)
+~~[截止：6.29] [国防科技大学电子对抗学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13084)~~
 
-[截止：6.29] [东北大学机器人科学与工程学院2023年优秀大学生学术夏令营活动的通知](http://www.rse.neu.edu.cn/2023/0619/c2147a232264/page.htm)
+~~[截止：6.29] [东北大学机器人科学与工程学院2023年优秀大学生学术夏令营活动的通知](http://www.rse.neu.edu.cn/2023/0619/c2147a232264/page.htm)~~
 
-[截止：6.29] [西北工业大学微电子学院2023年全国优秀大学生暑期夏令营工作方案](https://weidianzi.nwpu.edu.cn/info/1132/3884.htm)
+~~[截止：6.29] [西北工业大学微电子学院2023年全国优秀大学生暑期夏令营工作方案](https://weidianzi.nwpu.edu.cn/info/1132/3884.htm)~~
 
-[截止：6.29] [江南大学理学院2023年全国优秀大学生云端夏令营公告](http://science.jiangnan.edu.cn/info/1055/8531.htm)
+~~[截止：6.29] [江南大学理学院2023年全国优秀大学生云端夏令营公告](http://science.jiangnan.edu.cn/info/1055/8531.htm)~~
 
-[截止：6.29] [江南大学人工智能与计算机学院2023年全国优秀大学生线下夏令营公告](http://ai.jiangnan.edu.cn/info/1055/3110.htm)
+~~[截止：6.29] [江南大学人工智能与计算机学院2023年全国优秀大学生线下夏令营公告](http://ai.jiangnan.edu.cn/info/1055/3110.htm)~~
 
-[截止：6.29] [江南大学物联网工程学院2023年全国优秀大学生暑期夏令营公告](http://iot.jiangnan.edu.cn/info/1055/5835.htm)
+~~[截止：6.29] [江南大学物联网工程学院2023年全国优秀大学生暑期夏令营公告](http://iot.jiangnan.edu.cn/info/1055/5835.htm)~~
 
 ~~[截止：6.28] [浙江大学网络空间安全研究中心招收2023年暑期实习生计划](https://icsr.zju.edu.cn/2023/0529/c70139a2764625/page.htm)~~
 
