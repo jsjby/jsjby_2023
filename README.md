@@ -145,21 +145,21 @@
 
 [截止：7.2] [南京理工大学电子工程与光电技术学院2023年全国“优秀大学生夏令营”活动公告](https://mp.weixin.qq.com/s/XX41e1wYBeT0eS40S2OwcA)
 
-[截止：7.1] [中国科学院软件研究所2023年全国大学生“软件与网络”夏令营招生通知](https://admission.ucas.edu.cn/showarticle/Article/f824c2a9-f94a-48c7-bbe2-a4bf2a22bcab/3e1fce05-30fd-415e-9429-216b3ca8be09)
+~~[截止：7.1] [中国科学院软件研究所2023年全国大学生“软件与网络”夏令营招生通知](https://admission.ucas.edu.cn/showarticle/Article/f824c2a9-f94a-48c7-bbe2-a4bf2a22bcab/3e1fce05-30fd-415e-9429-216b3ca8be09)~~
 
-[截止：7.1] [[广东工业大学计算机学院2023年优秀大学生暑期夏令营活动通知](https://computer.gdut.edu.cn/info/2318/3932.htm)
+~~[截止：7.1] [[广东工业大学计算机学院2023年优秀大学生暑期夏令营活动通知](https://computer.gdut.edu.cn/info/2318/3932.htm)~~
 
-[截止：7.1] [[北京交通大学机电学院2024年研究生招生暑期夏令营及校内选拔](https://mece.bjtu.edu.cn/cms/item/4348.html)
+~~[截止：7.1] [[北京交通大学机电学院2024年研究生招生暑期夏令营及校内选拔](https://mece.bjtu.edu.cn/cms/item/4348.html)~~
 
-[截止：7.1] [北京交通大学软件学院2023年暑期夏令营活动及校内选拔活动通知](http://sse.bjtu.edu.cn/cms/item/943.html)
+~~[截止：7.1] [北京交通大学软件学院2023年暑期夏令营活动及校内选拔活动通知](http://sse.bjtu.edu.cn/cms/item/943.html)~~
 
-[截止：7.1] [大连理工大学微电子学院2024年优秀大学生学术夏令营通知](http://smedut.dlut.edu.cn/info/1034/6130.htm)
+~~[截止：7.1] [大连理工大学微电子学院2024年优秀大学生学术夏令营通知](http://smedut.dlut.edu.cn/info/1034/6130.htm)~~
 
-[截止：7.1] [中国石油大学（华东）地球科学与技术学院大学生暑期夏令营（线上）活动通知](http://geori.upc.edu.cn/2023/0616/c17157a406125/page.htm)
+~~[截止：7.1] [中国石油大学（华东）地球科学与技术学院大学生暑期夏令营（线上）活动通知](http://geori.upc.edu.cn/2023/0616/c17157a406125/page.htm)~~
 
-[截止：7.1] [江苏大学物理与电子工程学院2023年大学生暑期夏令营活动的通知](https://phy.ujs.edu.cn/info/1004/11582.htm)
+~~[截止：7.1] [江苏大学物理与电子工程学院2023年大学生暑期夏令营活动的通知](https://phy.ujs.edu.cn/info/1004/11582.htm)~~
 
-[截止：7.1] [西北工业大学柔性电子研究院2023年全国优秀大学生暑期夏令营报名通知](https://ife.nwpu.edu.cn/info/1175/7605.htm)
+~~[截止：7.1] [西北工业大学柔性电子研究院2023年全国优秀大学生暑期夏令营报名通知](https://ife.nwpu.edu.cn/info/1175/7605.htm)~~
 
 ~~[截止：6.30] [西北工业大学软件学院2023年全国优秀大学生暑期夏令营工作方案](https://ruanjian.nwpu.edu.cn/info/1133/7406.htm)~~
 
