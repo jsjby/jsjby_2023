@@ -45,6 +45,10 @@
 
 [截止：7.10] [西北工业大学海洋研究院2023年全国优秀大学生暑期学校招生简章](https://haiyang.nwpu.edu.cn/info/1034/3251.htm)
 
+[截止：7.10] [新疆大学软件学院2023年优秀大学生暑期线上夏令营招募通知](http://ss.xju.edu.cn/info/1019/2935.htm)
+
+[截止：7.10] [电子科技大学（深圳）高等研究院全国优秀大学生夏令营活动通知](https://sias.uestc.edu.cn/info/1088/3358.htm)
+
 [截止：7.10] [中国科学院重庆绿色智能技术研究院 2023年优秀大学生夏令营报名通知](http://www.cigit.cas.cn/yjsjy/sszs/sstz/202306/t20230609_6776214.html)
 
 [截止：7.10] [西南交通大学计算机与人工智能学院2023年优秀大学生暑期学术夏令营通知](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=A49994D65FFC0734)
