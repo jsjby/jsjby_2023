@@ -18,6 +18,7 @@
 
 ## 23年计算机夏令营通知
 
+## 23年计算机夏令营入营通知 [入营通知](https://github.com/jsjby/jsjby23_ruying)
 
 [截止：8.1] [杭州电子科技大学“智能信息处理实验室”2023年大学生暑期夏令营通知](http://iipl.net.cn/index/article/id/172.aspx)
 
