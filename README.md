@@ -38,9 +38,13 @@
 
 [截止：8.5] [东南大学计算机科学与工程学院、软件学院 2023年全国优秀大学生夏令营活动及推免预选拔工作通知](http://accu.cqu.edu.cn/info/1028/6291.htm)
 
+[截止：7.27] [东南大学自动化学院2023年全国优秀大学生夏令营活动暨推免预选拔工作通知](https://automation.seu.edu.cn/2023/0705/c24460a450730/page.htm)
+
 [截止：7.20] [中国科学院大学2023年度全国大学生“空天信息技术”暑期学校招生](https://mp.weixin.qq.com/s/TPP_Ulrqk94L4R3NFQ7fqw)
 
 [截止：7.15] [昆明理工大学机电工程学院2023年全国优秀大学生夏令营活动的通知](https://www.kmust.edu.cn/info/1166/46036.htm)
+
+[截止：7.10] [西安电子科技大学杭州研究院2023年优秀大学生夏令营招募通知](https://mp.weixin.qq.com/s/fo04n1LCPSULmDssXQAq7A)
 
 [截止：7.10] [山东大学“太空科学与航天工程”优秀大学生暑期夏令营](https://iss.wh.sdu.edu.cn/info/1095/3392.htm)
 
