@@ -98,21 +98,21 @@
 
 [截止：7.6] [中国矿业大学（北京）地测学院2023年暑期夏令营报名通知2023年全国优秀大学生暑期夏令营报名通知](https://dcxy.cumtb.edu.cn/info/1031/5402.htm)
 
-[截止：7.5] [国防科技大学电子科学学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/index/index.view)
+~~[截止：7.5] [国防科技大学电子科学学院2023年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/index/index.view)~~
 
-[截止：7.5] [西安电子科技大学计算机科学与技术学院（国家示范性软件学院）2024年研究生招生暑期夏令营的通知](https://cs.xidian.edu.cn/info/1003/15891.htm)
+~~[截止：7.5] [西安电子科技大学计算机科学与技术学院（国家示范性软件学院）2024年研究生招生暑期夏令营的通知](https://cs.xidian.edu.cn/info/1003/15891.htm)~~
 
-[截止：7.5] [湘潭大学自动化与电子信息学院2023年第四届“自电之旅”学术夏令营公告](https://aei.xtu.edu.cn/info/1039/2938.htm)
+~~[截止：7.5] [湘潭大学自动化与电子信息学院2023年第四届“自电之旅”学术夏令营公告](https://aei.xtu.edu.cn/info/1039/2938.htm)~~
 
-[截止：7.5] [香港科技大学（广州）四大学域博士项目联合夏令营开放申请](https://mp.weixin.qq.com/s/0jX9eR1cgfTkFCKVNuFJ5A)
+~~[截止：7.5] [香港科技大学（广州）四大学域博士项目联合夏令营开放申请](https://mp.weixin.qq.com/s/0jX9eR1cgfTkFCKVNuFJ5A)~~
 
-[截止：7.5] [北京航空航天大学人工智能研究院招收2024年研究生全国优秀大学生夏令营活动通知](https://iai.buaa.edu.cn/info/1082/2545.htm)
+~~[截止：7.5] [北京航空航天大学人工智能研究院招收2024年研究生全国优秀大学生夏令营活动通知](https://iai.buaa.edu.cn/info/1082/2545.htm)~~
 
-[截止：7.5] [山东大学海洋研究院、海洋学院2023年优秀大学生联合夏令营招生](https://www.imst.sdu.edu.cn/info/1080/6655.htm)
+~~[截止：7.5] [山东大学海洋研究院、海洋学院2023年优秀大学生联合夏令营招生](https://www.imst.sdu.edu.cn/info/1080/6655.htm)~~
 
-[截止：7.5] [华北电力大学电气与电子工程学院关于举办2023年“直通电院”夏令营活动的通知](https://electric.ncepu.edu.cn/zsgz/bsyjszs/af0a40ca22fd4d85bddefd522f2bf056.htm)
+~~[截止：7.5] [华北电力大学电气与电子工程学院关于举办2023年“直通电院”夏令营活动的通知](https://electric.ncepu.edu.cn/zsgz/bsyjszs/af0a40ca22fd4d85bddefd522f2bf056.htm)~~
 
-[截止：7.5] [中国科学技术大学信息科学技术学院自动化系2023年研招夏令营公告](https://auto.ustc.edu.cn/2023/0608/c26085a605356/page.htm)
+~~[截止：7.5] [中国科学技术大学信息科学技术学院自动化系2023年研招夏令营公告](https://auto.ustc.edu.cn/2023/0608/c26085a605356/page.htm)~~
 
 ~~[截止：7.4] [华北电力大学电力工程系2023年“电力之星”全国优秀大学生暑期学术夏令营活动的通知](https://ee.ncepu.edu.cn/tzgg3/400bfcad150e4546b2cc4991df55b223.htm)~~
 
