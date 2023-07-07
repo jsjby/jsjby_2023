@@ -20,7 +20,6 @@
 
 ## 23年计算机夏令营入营通知 [入营通知](https://github.com/jsjby/jsjby23_ruying)
 
-[截止：8.1] [杭州电子科技大学“智能信息处理实验室”2023年大学生暑期夏令营通知](http://iipl.net.cn/index/article/id/172.aspx)
 
 [截止：暂无] [中国石油大学（北京）信息科学与工程学院2023年优秀大学生夏令营招生简章](https://www.cup.edu.cn/cise/tzgg2/b21c933b85d74b75a4fb4f6ac485dfef.htm)
 
@@ -86,23 +85,23 @@
 
 [截止：7.8] [西安建筑科技大学信息与控制工程学院关于举办2024年优秀硕士研究生生源选拔暑期夏令营通知](https://yzb.xauat.edu.cn/info/1001/6033.htm)
 
-[截止：7.7] [深圳大学大数据系统计算技术国家工程实验室2024年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/BbLdQ6DwC-SL4mMwj9dJhg)
+~~[截止：7.7] [深圳大学大数据系统计算技术国家工程实验室2024年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/BbLdQ6DwC-SL4mMwj9dJhg)~~
 
-[截止：7.7] [天津工业大学物理科学与技术学院 举办2023年研究生招生夏令营活动的通知](https://wlkx.tiangong.edu.cn/2023/0704/c4922a86703/page.htm)
+~~[截止：7.7] [天津工业大学物理科学与技术学院 举办2023年研究生招生夏令营活动的通知](https://wlkx.tiangong.edu.cn/2023/0704/c4922a86703/page.htm)~~
 
-[截止：7.7] [西安电子科技大学人工智能学院2024年研究生招生学术夏令营暨预推免报名的通知](https://sai.xidian.edu.cn/info/1106/8210.htm)
+~~[截止：7.7] [西安电子科技大学人工智能学院2024年研究生招生学术夏令营暨预推免报名的通知](https://sai.xidian.edu.cn/info/1106/8210.htm)~~
 
-[截止：7.7] [哈尔滨工业大学（深圳）理学院 2024年全国优秀大学生学术夏令营的通知](http://ssc.hitsz.edu.cn/info/1051/2151.htm)
+~~[截止：7.7] [哈尔滨工业大学（深圳）理学院 2024年全国优秀大学生学术夏令营的通知](http://ssc.hitsz.edu.cn/info/1051/2151.htm)~~
 
-[截止：7.7] [新疆大学信息科学与工程学院2023年优秀大学生暑期线上夏令营](http://it.xju.edu.cn/info/1101/3015.htm)
+~~[截止：7.7] [新疆大学信息科学与工程学院2023年优秀大学生暑期线上夏令营](http://it.xju.edu.cn/info/1101/3015.htm)~~
 
-[截止：7.7] [哈尔滨工业大学（深圳）电子与信息工程学院 2024年全国优秀大学生学术夏令营的通知](http://eie.hitsz.edu.cn/info/1007/2391.htm)
+~~[截止：7.7] [哈尔滨工业大学（深圳）电子与信息工程学院 2024年全国优秀大学生学术夏令营的通知](http://eie.hitsz.edu.cn/info/1007/2391.htm)~~
 
-[截止：7.7] [哈尔滨工业大学（深圳）空间科学与应用技术研究院2024年全国优秀大学生暑期夏令营工作方案](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2483)
+~~[截止：7.7] [哈尔滨工业大学（深圳）空间科学与应用技术研究院2024年全国优秀大学生暑期夏令营工作方案](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2483)~~
 
-[截止：7.7] [哈尔滨工业大学（深圳）计算机科学与技术学院2024年全国优秀大学生学术夏令营的通知](http://cs.hitsz.edu.cn/info/1029/6751.htm)
+~~[截止：7.7] [哈尔滨工业大学（深圳）计算机科学与技术学院2024年全国优秀大学生学术夏令营的通知](http://cs.hitsz.edu.cn/info/1029/6751.htm)~~
 
-[截止：7.7] [深圳大学大数据系统计算技术国家工程实验室2023年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/BbLdQ6DwC-SL4mMwj9dJhg)
+~~[截止：7.7] [深圳大学大数据系统计算技术国家工程实验室2023年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/BbLdQ6DwC-SL4mMwj9dJhg)~~
 
 ~~[截止：7.6] [大连海事大学人工智能学院关于开展2023年优秀大学生学术夏令营活动的通知](https://grs.dlmu.edu.cn/info/1139/8601.htm)~~
 
