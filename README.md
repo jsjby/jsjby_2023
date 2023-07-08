@@ -21,13 +21,7 @@
 ## 23年计算机夏令营入营通知 [入营通知](https://github.com/jsjby/jsjby23_ruying)
 
 
-[截止：暂无] [中国石油大学（北京）信息科学与工程学院2023年优秀大学生夏令营招生简章](https://www.cup.edu.cn/cise/tzgg2/b21c933b85d74b75a4fb4f6ac485dfef.htm)
 
-[截止：暂无] [南开大学计算机学院、网络空间安全学院2024年推荐免试研究生（含直博）接收](https://cyber.nankai.edu.cn/2023/0615/c13348a514888/page.htm)
-
-[截止：暂无] [中国科学院2023年国家授时中心“时间之旅”夏令营招募通知](https://mp.weixin.qq.com/s/aJ7xEgburUJTtNo1ufsLqw)
-
-[截止：暂无] [国科大杭州高等研究院关于2023年优秀大学生夏令营报名意向收集的通知](http://hias.ucas.ac.cn/info/1100/4428.htm)
 
 [截止：8.16] [东南大学电气工程学院2023年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ee.seu.edu.cn/2023/0625/c25184a449533/page.htm)
 
@@ -79,11 +73,11 @@
 
 [截止：7.9] [新疆大学未来技术学院2023年优秀大学生暑期线上夏令招募通知](http://wljs.xju.edu.cn/info/1031/1396.htm)
 
-[截止：7.8] [山东大学威海前沿交叉科学研究院2023年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/VWDU9wgluLsVU3UfBT_0dA)
+~~[截止：7.8] [山东大学威海前沿交叉科学研究院2023年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/VWDU9wgluLsVU3UfBT_0dA)~~
 
-[截止：7.8] [北京语言大学信息科学学院暨语言智能研究院2023年全国优秀大学生夏令营招生简章](http://xxkx.blcu.edu.cn/art/2023/7/1/art_14771_1168866.html)
+~~[截止：7.8] [北京语言大学信息科学学院暨语言智能研究院2023年全国优秀大学生夏令营招生简章](http://xxkx.blcu.edu.cn/art/2023/7/1/art_14771_1168866.html)~~
 
-[截止：7.8] [西安建筑科技大学信息与控制工程学院关于举办2024年优秀硕士研究生生源选拔暑期夏令营通知](https://yzb.xauat.edu.cn/info/1001/6033.htm)
+~~[截止：7.8] [西安建筑科技大学信息与控制工程学院关于举办2024年优秀硕士研究生生源选拔暑期夏令营通知](https://yzb.xauat.edu.cn/info/1001/6033.htm)~~
 
 ~~[截止：7.7] [深圳大学大数据系统计算技术国家工程实验室2024年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/BbLdQ6DwC-SL4mMwj9dJhg)~~
 
@@ -708,6 +702,14 @@
 ~~[截止：5.28] [2023年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/Y_aV_mV-PjREgPlrmPW2Cg)~~
 
 ~~[截止：5.15] [中科院计算所2023年计算机科学研究能力培养“春闱计划”招募通知](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
+
+~~[截止：暂无] [中国石油大学（北京）信息科学与工程学院2023年优秀大学生夏令营招生简章](https://www.cup.edu.cn/cise/tzgg2/b21c933b85d74b75a4fb4f6ac485dfef.htm)~~
+
+~~[截止：暂无] [南开大学计算机学院、网络空间安全学院2024年推荐免试研究生（含直博）接收](https://cyber.nankai.edu.cn/2023/0615/c13348a514888/page.htm)~~
+
+~~[截止：暂无] [中国科学院2023年国家授时中心“时间之旅”夏令营招募通知](https://mp.weixin.qq.com/s/aJ7xEgburUJTtNo1ufsLqw)~~
+
+~~[截止：暂无] [国科大杭州高等研究院关于2023年优秀大学生夏令营报名意向收集的通知](http://hias.ucas.ac.cn/info/1100/4428.htm)~~
 
 ~~[截止：2.28] [2023年中国科学院自动化研究所“人工智能菁英班”项目申报通知](https://mp.weixin.qq.com/s?__biz=MzkzNjM4MDA0NA==&mid=2247483780&idx=3&sn=11fd7b14f9b37bf0dadd4ed0c5ad2b7f&chksm=c29ed267f5e95b715ca7ccd469a9b191c750dacd01c7db168111717ce11b0e52b229ddef89d9&token=496666726&lang=zh_CN#rd)~~
 
