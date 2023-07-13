@@ -63,6 +63,8 @@
 
 [截止：7.27] [东南大学自动化学院2023年全国优秀大学生夏令营活动暨推免预选拔工作通知](https://automation.seu.edu.cn/2023/0705/c24460a450730/page.htm)
 
+[截止：7.24] [南京理工大学网络空间安全学院 2023年全国“优秀大学生夏令营” 活动公告](https://mp.weixin.qq.com/s/siOa7-i-eK3YXaQgBOs5Hg)
+
 [截止：7.21] [北京科技大学计算机与通信工程学院2024年接收推荐免试硕士研究生（含直博生）预报名的通知](http://scce.ustb.edu.cn/xinwentongzhi/xueyuanxinwen/2023-07-08/2017.html)
 
 [截止：7.20] [中国科学院大学2023年度全国大学生“空天信息技术”暑期学校招生](https://mp.weixin.qq.com/s/TPP_Ulrqk94L4R3NFQ7fqw)
@@ -70,6 +72,8 @@
 [截止：7.20] [上海大学微电子学院2023年优秀大学生暑期夏令营活动通知](https://sme.shu.edu.cn/info/1030/3491.htm)
 
 [截止：7.18] [华北电力大学控制与计算机工程学院2023年“智慧控计”优秀大学生夏令营活动的通知](https://cce.ncepu.edu.cn/tztg1/2fd1db9cd6074da6a02caabd6e39560a.htm)
+
+[截止：7.18] [哈尔滨工业大学计算学部关于接受2024年推免生（含直博生）预报名的通知](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)
 
 [截止：7.17] [曲阜师范大学计算机学院2023年全国优秀大学生暑期线上夏令营活动](https://mp.weixin.qq.com/s/HzNW-5UQ-vHP3cHRq9j1gA)
 
