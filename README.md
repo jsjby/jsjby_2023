@@ -59,6 +59,8 @@
 
 [截止：8.1] [杭州电子科技大学“智能信息处理实验室”2023年大学生暑期夏令营通知](http://iipl.net.cn/index/article/id/172.aspx)
 
+[截止：7.31] [中国电力科学研究院2023年优秀大学生暑期夏令营活动的通知](http://www.epri.sgcc.com.cn/html/epri/gb/yjsjy/zsgz/sszs/155891202307130845000004.shtml)
+
 [截止：7.30] [浙江农林大学数学与计算机科学学院2023年优秀大学生夏令营活动报名通知](https://yjszs.zafu.edu.cn/info/1022/2011.htm)
 
 [截止：7.27] [东南大学自动化学院2023年全国优秀大学生夏令营活动暨推免预选拔工作通知](https://automation.seu.edu.cn/2023/0705/c24460a450730/page.htm)
@@ -85,7 +87,7 @@
 
 [截止：7.15] [中国农业科学院农业信息研究所2023年暑期大学生夏令营通知](http://aii.caas.net.cn/yjspy/zsxx/a2b00d5caeb1478f9555cf53a3517620.htm)
 
-[截止：7.14] [中国宝武钢铁集团有限公司—北科大2023年校企联合培养专项优秀大学生夏令营活动](https://yzxc.ustb.edu.cn/xlytm/hdap/3837f112f5fd4a89a6fbaa18ac95ce3e.htm)
+~~[截止：7.14] [中国宝武钢铁集团有限公司—北科大2023年校企联合培养专项优秀大学生夏令营活动](https://yzxc.ustb.edu.cn/xlytm/hdap/3837f112f5fd4a89a6fbaa18ac95ce3e.htm)~~
 
 ~~[截止：7.10] [西安电子科技大学杭州研究院2023年优秀大学生夏令营招募通知](https://mp.weixin.qq.com/s/fo04n1LCPSULmDssXQAq7A)~~
 
