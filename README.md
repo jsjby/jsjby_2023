@@ -65,6 +65,8 @@
 
 [截止：7.27] [东南大学自动化学院2023年全国优秀大学生夏令营活动暨推免预选拔工作通知](https://automation.seu.edu.cn/2023/0705/c24460a450730/page.htm)
 
+[截止：7.25] [浙江农林大学光机电工程学院光学工程专业2023年优秀大学生夏令营活动报名通知](https://yjszs.zafu.edu.cn/info/1022/2039.htm)
+
 [截止：7.24] [南京理工大学网络空间安全学院 2023年全国“优秀大学生夏令营” 活动公告](https://mp.weixin.qq.com/s/siOa7-i-eK3YXaQgBOs5Hg)
 
 [截止：7.21] [北京科技大学计算机与通信工程学院2024年接收推荐免试硕士研究生（含直博生）预报名的通知](http://scce.ustb.edu.cn/xinwentongzhi/xueyuanxinwen/2023-07-08/2017.html)
@@ -81,11 +83,11 @@
 
 [截止：7.16] [上海交通大学溥渊未来技术学院2024年研究生夏令营招生](https://mp.weixin.qq.com/s/r1WxsDtk26pMdZe4rLmlHw)
 
-[截止：7.15] [昆明理工大学机电工程学院2023年全国优秀大学生夏令营活动的通知](https://www.kmust.edu.cn/info/1166/46036.htm)
+~~[截止：7.15] [昆明理工大学机电工程学院2023年全国优秀大学生夏令营活动的通知](https://www.kmust.edu.cn/info/1166/46036.htm)~~
 
-[截止：7.15] [湖北工业大学电气与电子工程学院2023年优秀大学生暑期夏令营通知](https://eee.hbut.edu.cn/info/1052/3774.htm)
+~~[截止：7.15] [湖北工业大学电气与电子工程学院2023年优秀大学生暑期夏令营通知](https://eee.hbut.edu.cn/info/1052/3774.htm)~~
 
-[截止：7.15] [中国农业科学院农业信息研究所2023年暑期大学生夏令营通知](http://aii.caas.net.cn/yjspy/zsxx/a2b00d5caeb1478f9555cf53a3517620.htm)
+~~[截止：7.15] [中国农业科学院农业信息研究所2023年暑期大学生夏令营通知](http://aii.caas.net.cn/yjspy/zsxx/a2b00d5caeb1478f9555cf53a3517620.htm)~~
 
 ~~[截止：7.14] [中国宝武钢铁集团有限公司—北科大2023年校企联合培养专项优秀大学生夏令营活动](https://yzxc.ustb.edu.cn/xlytm/hdap/3837f112f5fd4a89a6fbaa18ac95ce3e.htm)~~
 
