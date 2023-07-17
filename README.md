@@ -77,11 +77,13 @@
 
 [截止：7.18] [华北电力大学控制与计算机工程学院2023年“智慧控计”优秀大学生夏令营活动的通知](https://cce.ncepu.edu.cn/tztg1/2fd1db9cd6074da6a02caabd6e39560a.htm)
 
+[截止：7.18] [重庆大学国家（重庆）卓越工程师学院关于举办2023年“卓越启航”夏令营通知](http://eie.cqu.edu.cn/info/1483/2078.htm)
+
 [截止：7.18] [哈尔滨工业大学计算学部关于接受2024年推免生（含直博生）预报名的通知](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)
 
 [截止：7.17] [曲阜师范大学计算机学院2023年全国优秀大学生暑期线上夏令营活动](https://mp.weixin.qq.com/s/HzNW-5UQ-vHP3cHRq9j1gA)
 
-[截止：7.16] [上海交通大学溥渊未来技术学院2024年研究生夏令营招生](https://mp.weixin.qq.com/s/r1WxsDtk26pMdZe4rLmlHw)
+~~[截止：7.16] [上海交通大学溥渊未来技术学院2024年研究生夏令营招生](https://mp.weixin.qq.com/s/r1WxsDtk26pMdZe4rLmlHw)~~
 
 ~~[截止：7.15] [昆明理工大学机电工程学院2023年全国优秀大学生夏令营活动的通知](https://www.kmust.edu.cn/info/1166/46036.htm)~~
 
