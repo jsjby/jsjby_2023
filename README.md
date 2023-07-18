@@ -39,7 +39,11 @@
 
 [截止：9.6] [苏州大学计算机科学和技术学院2024年推荐免试研究生（含直博生）预选拔通知](http://scst.suda.edu.cn/3a/ee/c29555a539374/page.htm)
 
+[截止：9.1] [西安电子科技大学通信工程学院2023年优秀大学生培优夏令营活动暨推免预选拔工作通知](https://ste.xidian.edu.cn/info/1337/7831.htm)
+
 [截止：8.25] [哈尔滨工业大学电气工程及自动化学院2024年推免生（含直博生）接收工作细则](http://hitee.hit.edu.cn/post/detail/11725)
+
+[截止：8.18] [山东第一医科大学医学人工智能与大数据学院 2023年研究生招生开放日的通知](https://aims.sdfmu.edu.cn/info/1017/2753.htm)
 
 [截止：8.16] [东南大学电气工程学院2023年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ee.seu.edu.cn/2023/0625/c25184a449533/page.htm)
 
@@ -69,19 +73,21 @@
 
 [截止：7.24] [南京理工大学网络空间安全学院 2023年全国“优秀大学生夏令营” 活动公告](https://mp.weixin.qq.com/s/siOa7-i-eK3YXaQgBOs5Hg)
 
+[截止：7.22] [海军工程大学2023年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/hJFh5suVgHOWSHatEgcu_Q)
+
 [截止：7.21] [北京科技大学计算机与通信工程学院2024年接收推荐免试硕士研究生（含直博生）预报名的通知](http://scce.ustb.edu.cn/xinwentongzhi/xueyuanxinwen/2023-07-08/2017.html)
 
 [截止：7.20] [中国科学院大学2023年度全国大学生“空天信息技术”暑期学校招生](https://mp.weixin.qq.com/s/TPP_Ulrqk94L4R3NFQ7fqw)
 
 [截止：7.20] [上海大学微电子学院2023年优秀大学生暑期夏令营活动通知](https://sme.shu.edu.cn/info/1030/3491.htm)
 
-[截止：7.18] [华北电力大学控制与计算机工程学院2023年“智慧控计”优秀大学生夏令营活动的通知](https://cce.ncepu.edu.cn/tztg1/2fd1db9cd6074da6a02caabd6e39560a.htm)
+~~[截止：7.18] [华北电力大学控制与计算机工程学院2023年“智慧控计”优秀大学生夏令营活动的通知](https://cce.ncepu.edu.cn/tztg1/2fd1db9cd6074da6a02caabd6e39560a.htm)~~
 
-[截止：7.18] [重庆大学国家（重庆）卓越工程师学院关于举办2023年“卓越启航”夏令营通知](http://eie.cqu.edu.cn/info/1483/2078.htm)
+~~[截止：7.18] [重庆大学国家（重庆）卓越工程师学院关于举办2023年“卓越启航”夏令营通知](http://eie.cqu.edu.cn/info/1483/2078.htm)~~
 
-[截止：7.18] [哈尔滨工业大学计算学部关于接受2024年推免生（含直博生）预报名的通知](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)
+~~[截止：7.18] [哈尔滨工业大学计算学部关于接受2024年推免生（含直博生）预报名的通知](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
 
-[截止：7.17] [曲阜师范大学计算机学院2023年全国优秀大学生暑期线上夏令营活动](https://mp.weixin.qq.com/s/HzNW-5UQ-vHP3cHRq9j1gA)
+~~[截止：7.17] [曲阜师范大学计算机学院2023年全国优秀大学生暑期线上夏令营活动](https://mp.weixin.qq.com/s/HzNW-5UQ-vHP3cHRq9j1gA)~~
 
 ~~[截止：7.16] [上海交通大学溥渊未来技术学院2024年研究生夏令营招生](https://mp.weixin.qq.com/s/r1WxsDtk26pMdZe4rLmlHw)~~
 
