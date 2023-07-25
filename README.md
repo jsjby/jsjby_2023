@@ -87,9 +87,9 @@
 
 [截止：7.25] [浙江农林大学光机电工程学院光学工程专业2023年优秀大学生夏令营活动报名通知](https://yjszs.zafu.edu.cn/info/1022/2039.htm)
 
-[截止：7.24] [南京理工大学网络空间安全学院 2023年全国“优秀大学生夏令营” 活动公告](https://mp.weixin.qq.com/s/siOa7-i-eK3YXaQgBOs5Hg)
+~~[截止：7.24] [南京理工大学网络空间安全学院 2023年全国“优秀大学生夏令营” 活动公告](https://mp.weixin.qq.com/s/siOa7-i-eK3YXaQgBOs5Hg)~~
 
-[截止：7.22] [海军工程大学2023年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/hJFh5suVgHOWSHatEgcu_Q)
+~~[截止：7.22] [海军工程大学2023年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/hJFh5suVgHOWSHatEgcu_Q)~~
 
 ~~[截止：7.21] [北京科技大学计算机与通信工程学院2024年接收推荐免试硕士研究生（含直博生）预报名的通知](http://scce.ustb.edu.cn/xinwentongzhi/xueyuanxinwen/2023-07-08/2017.html)~~
 
