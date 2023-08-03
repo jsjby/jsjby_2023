@@ -67,11 +67,31 @@
 
 [截止：8.21] [北京大学未来技术学院2023年全国优秀大学生夏令营活动的通知第二轮](https://future.pku.edu.cn/xwzk/3775ddc2e69d4c73a11a2e68ee3ec18a.htm)
 
+[截止：8.21] [清华大学网络科学与网络空间研究院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c00e3612-55c8-44ea-bd7d-5116e5d4d74b?yxsdm=412)
+
+[截止：8.21] [清华大学计算机科学与技术系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)
+
+[截止：8.21] [清华大学交叉信息研究院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/0707733b-6d0a-4a67-afef-60f209702d00?yxsdm=047)
+
+[截止：8.21] [清华大学软件学院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/138f9e36-b514-4161-9cd9-f951cf261d53?yxsdm=410)
+
+[截止：8.21] [清华大学法学院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/917d06df-1ccb-4bd0-8b90-3eff888bbf68?yxsdm=066)
+
+[截止：8.21] [清华大学自动化系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb2030ab-3f6c-4a89-96b1-8e9c0aae5804?yxsdm=025)
+
+[截止：8.21] [清华大学集成电路学院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/6b6505b5-3ae9-4579-98b0-d395bef51bd7?yxsdm=026)
+
+[截止：8.21] [清华大学电子工程系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/94044b7a-cc36-4aed-b692-9740cfa47780?yxsdm=023)
+
+[截止：8.21] [清华大学深圳国际研究生院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/23a0b945-5135-43ff-871e-98ad2eb78d5e?yxsdm=599)
+
 [截止：8.18] [山东第一医科大学医学人工智能与大数据学院 2023年研究生招生开放日的通知](https://aims.sdfmu.edu.cn/info/1017/2753.htm)
 
 [截止：8.18] [北京师范大学人工智能学院2023年优秀大学生夏令营（第二轮）](https://ai.bnu.edu.cn/tzgg/987d79703d024bc7882d492ca71c53f0.html)
 
 [截止：8.16] [东南大学电气工程学院2023年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ee.seu.edu.cn/2023/0625/c25184a449533/page.htm)
+
+[截止：8.16] [北京科技大学计算机与通信工程学院2024年接收推荐免试硕士研究生（含直博生）预报名（第二批次）的通知](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-08-02/2021.html)
 
 [截止：8.16] [中国科学院上海高等研究院 “梦筑高研” 2023年8月大学生夏令营活动通知](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202307/t20230727_6839057.html)
 
