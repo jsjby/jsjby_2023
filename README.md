@@ -23,6 +23,10 @@
 
 [截止：暂无] [中国科学技术大学计算机科学与技术学院2023年（校内/校外本科生）推免申请公告 （2024年硕士研究生入学）](https://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
 
+[截止：暂无] [中国科学院软件所2024年接收推免生预报名公告](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202308/t20230807_6855143.html)
+
+[截止：暂无] [中国科学院宁波材料技术与工程研究所 2024年接收推荐免试硕士生及直博生规程](https://graduate.nimte.ac.cn/view-27529.html)
+
 [截止：9.30] [西安电子科技大学空间科学与技术学院2024年推荐免试研究生招生预报名通知](https://sast.xidian.edu.cn/info/1014/6271.htm)
 
 [截止：9.27] [西安电子科技大学微电子学院2024年推荐免试硕士研究生招生预报名通知](https://sme.xidian.edu.cn/html/tzgg/jl/2023/0727/2152.html)
@@ -57,6 +61,8 @@
 
 [截止：9.15] [天津大学医学部2024级硕士研究生普通推免报名](http://amt.tju.edu.cn/portal/index/detail/id/281/cid/13.html)
 
+[截止：9.15] [浙江大学信息与电子工程学院关于接收2024级外校推荐免试研究生的说明](http://www.isee.zju.edu.cn/2023/0807/c21109a2787985/page.htm)
+
 [截止：9.8] [天津大学自动化学院接收2024级校内外推免生告知信](http://seea.tju.edu.cn/info/1031/3891.htm)
 
 [截止：9.7] [中国科学院微生物研究所接收2024年推荐免试研究生及直博生报名通知](https://www.im.cas.cn/yjs2018/zsxx/ssyjszs/202308/t20230803_6854663.html)
@@ -80,6 +86,10 @@
 [截止：8.21] [清华大学网络科学与网络空间研究院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c00e3612-55c8-44ea-bd7d-5116e5d4d74b?yxsdm=412)
 
 [截止：8.21] [清华大学计算机科学与技术系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)
+
+[截止：8.21] [清华大学深圳国际研究生院2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://mp.weixin.qq.com/s/F8rV3_VK2ad1ZM60cncMNg)
+
+[截止：8.21] [清华大学-南方科技大学联合培养博士专项计划 2024年招生简章](https://www.sigs.tsinghua.edu.cn/2023/0805/c118a89522/page.htm)
 
 [截止：8.21] [清华大学交叉信息研究院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/0707733b-6d0a-4a67-afef-60f209702d00?yxsdm=047)
 
@@ -112,6 +122,8 @@
 [截止：8.15] [东南大学仪器科学与工程学院2023年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ins.seu.edu.cn/2023/0627/c26759a449720/page.htm)
 
 [截止：8.14] [东南大学电子科学与工程学院2023年全国优秀大学生夏令营活动暨2024级推免生预选拔工作通知](https://electronic.seu.edu.cn/2023/0707/c11479a450947/page.htm)
+
+[截止：8.14] [中国石油大学（北京）克拉玛依校区石油学院2023年全国优秀大学生暑期夏令营活动通知](https://www.cupk.edu.cn/syxy/c/2023-08-07/518114.shtml)
 
 [截止：8.13] [北京工商大学计算机学院2023年暑期全国优秀大学生夏令营招生通知](https://cse.btbu.edu.cn/tzgg/1d931b57f984479098467a46fb96cfad.htm)
 
