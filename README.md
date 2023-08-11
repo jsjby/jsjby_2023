@@ -97,6 +97,8 @@
 
 [截止：8.28] [哈尔滨工业大学卓越工程师学院2024年推免生（含直博生）接收工作细则](https://ees.hit.edu.cn/2023/0724/c15565a321323/page.htm)
 
+[截止：8.28] [西湖大学工学院2024年博士研究生招生简章](https://engineering.westlake.edu.cn/Admission/GraduateProgram/zszx_2623/202308/t20230808_30695.shtml)
+
 [截止：8.27] [南京大学计算机科学与技术系2024年接收推荐免试研究生预报名通知](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)
 
 [截止：8.27] [南京大学软件学院2024年接收推荐免试研究生预报名通知](https://software.nju.edu.cn//tzgg/20230809/i249554.html)
