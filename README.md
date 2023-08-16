@@ -83,6 +83,8 @@
 
 [截止：9.15] [浙江大学能源工程学院2024年接收外校推荐免试研究生招生](http://www.doe.zju.edu.cn/2023/0810/c74392a2788827/page.htm)
 
+[截止：9.15] [浙江大学国际联合商学院2024年全日制专业学位推荐免试研究生招生通知](https://zibs.zju.edu.cn/article/zibs-2024-graduate-admissions.html)
+
 [截止：9.15] [浙江大学航空航天学院关于2024年接收外校推荐免试研究生报名的通知](http://saa.zju.edu.cn/2023/0809/c67589a2788559/page.htm)
 
 [截止：9.15] [浙江大学工程师学院2024年全日制专业学位研究生推荐免试招生通知](https://pi.zju.edu.cn/2023/0809/c67026a2788673/page.htm)
@@ -129,6 +131,8 @@
 
 [截止：8.21] [北京大学未来技术学院2023年全国优秀大学生夏令营活动的通知第二轮](https://future.pku.edu.cn/xwzk/3775ddc2e69d4c73a11a2e68ee3ec18a.htm)
 
+[截止：8.21] [清华大学SIGS-IMDT2024年接收优秀应届本科毕业生免试攻读研究生报名进行中](https://mp.weixin.qq.com/s/o4dLMU8Z3QjAaqq4eZRtXA)
+
 [截止：8.21] [清华大学网络科学与网络空间研究院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c00e3612-55c8-44ea-bd7d-5116e5d4d74b?yxsdm=412)
 
 [截止：8.21] [清华大学计算机科学与技术系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)
@@ -159,13 +163,13 @@
 
 [截止：8.18] [北京师范大学人工智能学院2023年优秀大学生夏令营（第二轮）](https://ai.bnu.edu.cn/tzgg/987d79703d024bc7882d492ca71c53f0.html)
 
-[截止：8.16] [东南大学电气工程学院2023年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ee.seu.edu.cn/2023/0625/c25184a449533/page.htm)
+~~[截止：8.16] [东南大学电气工程学院2023年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ee.seu.edu.cn/2023/0625/c25184a449533/page.htm)~~
 
-[截止：8.16] [北京科技大学计算机与通信工程学院2024年接收推荐免试硕士研究生（含直博生）预报名（第二批次）的通知](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-08-02/2021.html)
+~~[截止：8.16] [北京科技大学计算机与通信工程学院2024年接收推荐免试硕士研究生（含直博生）预报名（第二批次）的通知](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-08-02/2021.html)~~
 
-[截止：8.16] [中国科学院上海高等研究院 “梦筑高研” 2023年8月大学生夏令营活动通知](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202307/t20230727_6839057.html)
-
-[截止：8.15] [东南大学仪器科学与工程学院2023年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ins.seu.edu.cn/2023/0627/c26759a449720/page.htm)
+~~[截止：8.16] [中国科学院上海高等研究院 “梦筑高研” 2023年8月大学生夏令营活动通知](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202307/t20230727_6839057.html)~~
+~
+~~[截止：8.15] [东南大学仪器科学与工程学院2023年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ins.seu.edu.cn/2023/0627/c26759a449720/page.htm)~~
 
 ~~[截止：8.14] [东南大学电子科学与工程学院2023年全国优秀大学生夏令营活动暨2024级推免生预选拔工作通知](https://electronic.seu.edu.cn/2023/0707/c11479a450947/page.htm)~~
 
