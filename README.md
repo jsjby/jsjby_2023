@@ -4,6 +4,12 @@
   <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
 </p>
 
+:fire: **23年夏令营通知：**  &nbsp; [夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main)
+
+:fire: **23年夏令营入营名单：**  &nbsp; [夏令营入营名单](https://github.com/jsjby/jsjby23_ruying)
+
+:fire: **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
+
 ### 计算机保研面试视频
 **哔哩哔哩账号主页:** &nbsp; [计算机保研](https://space.bilibili.com/258646084) &nbsp; [计算机保研之必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web) [2022计算机保研必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web)<br />
 ![bilibili主页](https://github.com/jsjby/jsjby_2023/blob/main/images/B%E7%AB%99%E5%AE%A3%E4%BC%A0.png)
