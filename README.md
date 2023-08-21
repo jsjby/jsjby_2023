@@ -125,6 +125,8 @@
 
 [截止：9.13] [哈尔滨工业大学（深圳） 机电工程与自动化学院2024年推免生（含直博生）接收工作细则](http://smea.hitsz.edu.cn/info/1014/2291.htm)
 
+[截止：9.13] [浙江大学电气工程学院关于接收2024年外校推荐免试研究生工作安排的通知](https://mp.weixin.qq.com/s/2_eXt6wWAlJPY7YCly6iGQ)
+
 [截止：9.12] [上海交通大学密西根学院工学类专业 2024年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-08-18/140682/)
 
 [截止：9.11] [浙江大学计算机学院关于接收2024级推荐免试研究生工作安排的通知](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
@@ -134,6 +136,8 @@
 [截止：9.10] [南京理工大学计算机科学与工程学院2024研究生推免预报名开启](https://cs.njust.edu.cn/df/4c/c1754a319308/page.htm)
 
 [截止：9.10] [中国科学院大学电子电气与通信工程学院 2024年接收推荐免试攻读研究生公告](https://eece.ucas.ac.cn/index.php/zh-cn/2014-06-13-06-51-06/2314-2024)
+
+[截止：9.10] [中国科学院计算机网络信息中心2024年推荐免试生（含直博生）招生简章](http://cnic.cas.cn/yjsjy/zsxx/tjms/202308/t20230821_6864421.html)
 
 [截止：9.8] [天津大学自动化学院接收2024级校内外推免生告知信](http://seea.tju.edu.cn/info/1031/3891.htm)
 
@@ -175,33 +179,33 @@
 
 [截止：8.24] [中国科学院沈阳自动化研究所关于举办2023年“机智过人，智见未来”大学生暑期网络短训营的通知](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202308/t20230815_6859342.html)
 
-[截止：8.21] [北京大学未来技术学院2023年全国优秀大学生夏令营活动的通知第二轮](https://future.pku.edu.cn/xwzk/3775ddc2e69d4c73a11a2e68ee3ec18a.htm)
+~~[截止：8.21] [北京大学未来技术学院2023年全国优秀大学生夏令营活动的通知第二轮](https://future.pku.edu.cn/xwzk/3775ddc2e69d4c73a11a2e68ee3ec18a.htm)~~
 
-[截止：8.21] [清华大学SIGS-IMDT2024年接收优秀应届本科毕业生免试攻读研究生报名进行中](https://mp.weixin.qq.com/s/o4dLMU8Z3QjAaqq4eZRtXA)
+~~[截止：8.21] [清华大学SIGS-IMDT2024年接收优秀应届本科毕业生免试攻读研究生报名进行中](https://mp.weixin.qq.com/s/o4dLMU8Z3QjAaqq4eZRtXA)~~
 
-[截止：8.21] [清华大学网络科学与网络空间研究院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c00e3612-55c8-44ea-bd7d-5116e5d4d74b?yxsdm=412)
+~~[截止：8.21] [清华大学网络科学与网络空间研究院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c00e3612-55c8-44ea-bd7d-5116e5d4d74b?yxsdm=412)~~
 
-[截止：8.21] [清华大学计算机科学与技术系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)
+~~[截止：8.21] [清华大学计算机科学与技术系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)~~
 
-[截止：8.21] [清华大学深圳国际研究生院2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://mp.weixin.qq.com/s/F8rV3_VK2ad1ZM60cncMNg)
+~~[截止：8.21] [清华大学深圳国际研究生院2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://mp.weixin.qq.com/s/F8rV3_VK2ad1ZM60cncMNg)~~
 
-[截止：8.21] [清华大学-南方科技大学联合培养博士专项计划 2024年招生简章](https://www.sigs.tsinghua.edu.cn/2023/0805/c118a89522/page.htm)
+~~[截止：8.21] [清华大学-南方科技大学联合培养博士专项计划 2024年招生简章](https://www.sigs.tsinghua.edu.cn/2023/0805/c118a89522/page.htm)~~
 
-[截止：8.21] [清华大学交叉信息研究院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/0707733b-6d0a-4a67-afef-60f209702d00?yxsdm=047)
+~~[截止：8.21] [清华大学交叉信息研究院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/0707733b-6d0a-4a67-afef-60f209702d00?yxsdm=047)~~
 
-[截止：8.21] [清华大学软件学院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/138f9e36-b514-4161-9cd9-f951cf261d53?yxsdm=410)
+~~[截止：8.21] [清华大学软件学院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/138f9e36-b514-4161-9cd9-f951cf261d53?yxsdm=410)~~
 
-[截止：8.21] [清华大学法学院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/917d06df-1ccb-4bd0-8b90-3eff888bbf68?yxsdm=066)
+~~[截止：8.21] [清华大学法学院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/917d06df-1ccb-4bd0-8b90-3eff888bbf68?yxsdm=066)~~
 
-[截止：8.21] [清华大学自动化系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb2030ab-3f6c-4a89-96b1-8e9c0aae5804?yxsdm=025)
+~~[截止：8.21] [清华大学自动化系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb2030ab-3f6c-4a89-96b1-8e9c0aae5804?yxsdm=025)~~
 
-[截止：8.21] [清华大学集成电路学院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/6b6505b5-3ae9-4579-98b0-d395bef51bd7?yxsdm=026)
+~~[截止：8.21] [清华大学集成电路学院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/6b6505b5-3ae9-4579-98b0-d395bef51bd7?yxsdm=026)~~
 
-[截止：8.21] [清华大学电子工程系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/94044b7a-cc36-4aed-b692-9740cfa47780?yxsdm=023)
+~~[截止：8.21] [清华大学电子工程系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/94044b7a-cc36-4aed-b692-9740cfa47780?yxsdm=023)~~
 
-[截止：8.21] [清华大学深圳国际研究生院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/23a0b945-5135-43ff-871e-98ad2eb78d5e?yxsdm=599)
+~~[截止：8.21] [清华大学深圳国际研究生院2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/23a0b945-5135-43ff-871e-98ad2eb78d5e?yxsdm=599)~~
 
-[截止：8.21] [清华大学-鹏城实验室联合培养博士专项计划2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550?yxsdm=599)
+~~[截止：8.21] [清华大学-鹏城实验室联合培养博士专项计划2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550?yxsdm=599)~~
 
 ~~[截止：8.20] [南京大学信息管理学院关于2023年优秀大学生暑期夏令营报名的补充通知](https://im.nju.edu.cn/ae/57/c13263a634455/page.htm)~~
 
