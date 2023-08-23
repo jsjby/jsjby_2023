@@ -53,6 +53,8 @@
 
 [截止：暂无] [中国科学院国家天文台接收2024年推荐免试生的通知](http://www.nao.cas.cn/jypy/jy/202308/t20230818_6863443.html)
 
+[截止：暂无] [中国空间技术研究院2024年推荐免试硕士研究生招生简章](https://mp.weixin.qq.com/s/f5VqCASyYgP6nMDwrlkkYA)
+
 [截止：10.18] [中国科学院新疆理化技术研究所2024年接收推荐免试生的通知](http://www.xjipc.cas.cn/yjs/zs/sszs/202308/t20230818_6863559.html)
 
 [截止：10.15] [中国科学院上海免疫与感染研究所2023年招收推荐免试研究生通知](http://siii.cas.cn/bsdyjsjy/zsxx/bszs/202308/t20230816_6862119.html)
@@ -176,6 +178,8 @@
 [截止：8.28] [西湖大学工学院2024年博士研究生招生简章](https://engineering.westlake.edu.cn/Admission/GraduateProgram/zszx_2623/202308/t20230808_30695.shtml)
 
 [截止：8.27] [南京大学计算机科学与技术系2024年接收推荐免试研究生预报名通知](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)
+
+[截止：8.27] [北京大学生命科学学院关于举办“2023年全国优秀大学生夏令营”活动的通知（第二轮）](https://bio.pku.edu.cn/homes/Index/news_cont/21/16695.html)
 
 [截止：8.27] [南京大学软件学院2024年接收推荐免试研究生预报名通知](https://software.nju.edu.cn//tzgg/20230809/i249554.html)
 
