@@ -31,6 +31,8 @@
 ## 23年计算机夏令营入营通知 [入营通知](https://github.com/jsjby/jsjby23_ruying)
 
 
+[截止：暂无] [南京大学智能科学与技术学院三维视觉实验室招生](https://yoyo000.github.io/images/NJU-3DV-2023.pdf)
+
 [截止：暂无] [中国科学技术大学计算机科学与技术学院2023年（校内/校外本科生）推免申请公告](https://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
 
 [截止：暂无] [中国科学院空天信息创新研究院空间信息处理与应用系统技术重点实验室（八室）招生简章](https://mp.weixin.qq.com/s/LbyQtqqrqmj46V12l5HKBg)
@@ -185,9 +187,9 @@
 
 [截止：8.25] [哈尔滨工业大学电气工程及自动化学院2024年推免生（含直博生）接收工作细则](http://hitee.hit.edu.cn/post/detail/11725)
 
-[截止：8.24] [苏州大学电子信息学院2023年优秀本科生夏令营公告](http://dzxx.suda.edu.cn/46/b0/c8244a542384/page.htm)
+~~[截止：8.24] [苏州大学电子信息学院2023年优秀本科生夏令营公告](http://dzxx.suda.edu.cn/46/b0/c8244a542384/page.htm)~~
 
-[截止：8.24] [中国科学院沈阳自动化研究所关于举办2023年“机智过人，智见未来”大学生暑期网络短训营的通知](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202308/t20230815_6859342.html)
+~~[截止：8.24] [中国科学院沈阳自动化研究所关于举办2023年“机智过人，智见未来”大学生暑期网络短训营的通知](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202308/t20230815_6859342.html)~~
 
 ~~[截止：8.21] [北京大学未来技术学院2023年全国优秀大学生夏令营活动的通知第二轮](https://future.pku.edu.cn/xwzk/3775ddc2e69d4c73a11a2e68ee3ec18a.htm)~~
 
