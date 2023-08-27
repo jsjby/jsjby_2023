@@ -183,6 +183,8 @@
 
 [截止：9.5] [西南财经大学计算机与人工智能学院2024级推免生报名通知](https://yz.swufe.edu.cn/chaxun/yzb/tms/2024/02jiuyue/2024tmsxz.html)
 
+[截止：9.4] [陕西科技大学数学与数据科学学院2024年硕士研究生优秀生源计划考核细则](https://ce.xidian.edu.cn/info/1324/9261.htm)
+
 [截止：9.3] [中国科学院自动化研究所2024年接收推荐免试生简章](http://www.ia.cas.cn/yjsjy/zs/sszs/202308/t20230817_6863377.html)
 
 [截止：9.3] [北京科技大学碳中和研究院2024年接收推荐免试硕士研究生（含直博生）预报名的通知](https://icn.ustb.edu.cn/tzgg/a3fc0cb7b74447b5ae69de0c6465e473.htm)
@@ -203,11 +205,11 @@
 
 [截止：8.28] [西湖大学工学院2024年博士研究生招生简章](https://engineering.westlake.edu.cn/Admission/GraduateProgram/zszx_2623/202308/t20230808_30695.shtml)
 
-[截止：8.27] [南京大学计算机科学与技术系2024年接收推荐免试研究生预报名通知](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)
+~~[截止：8.27] [南京大学计算机科学与技术系2024年接收推荐免试研究生预报名通知](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)~~
 
-[截止：8.27] [北京大学生命科学学院关于举办“2023年全国优秀大学生夏令营”活动的通知（第二轮）](https://bio.pku.edu.cn/homes/Index/news_cont/21/16695.html)
+~~[截止：8.27] [北京大学生命科学学院关于举办“2023年全国优秀大学生夏令营”活动的通知（第二轮）](https://bio.pku.edu.cn/homes/Index/news_cont/21/16695.html)~~
 
-[截止：8.27] [南京大学软件学院2024年接收推荐免试研究生预报名通知](https://software.nju.edu.cn//tzgg/20230809/i249554.html)
+~~[截止：8.27] [南京大学软件学院2024年接收推荐免试研究生预报名通知](https://software.nju.edu.cn//tzgg/20230809/i249554.html)~~
 
 ~~[截止：8.25] [哈尔滨工业大学电气工程及自动化学院2024年推免生（含直博生）接收工作细则](http://hitee.hit.edu.cn/post/detail/11725)~~
 
