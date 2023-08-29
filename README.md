@@ -153,11 +153,17 @@
 
 [截止：9.15] [浙江大学信息与电子工程学院关于接收2024级外校推荐免试研究生的说明](http://www.isee.zju.edu.cn/2023/0807/c21109a2787985/page.htm)
 
+[截止：9.15] [中国科学院声学所接收2024级推免研究生九月面试安排](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)
+
 [截止：9.13] [哈尔滨工业大学（深圳） 机电工程与自动化学院2024年推免生（含直博生）接收工作细则](http://smea.hitsz.edu.cn/info/1014/2291.htm)
 
 [截止：9.13] [浙江大学电气工程学院关于接收2024年外校推荐免试研究生工作安排的通知](https://mp.weixin.qq.com/s/2_eXt6wWAlJPY7YCly6iGQ)
 
 [截止：9.12] [上海交通大学密西根学院工学类专业 2024年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-08-18/140682/)
+
+[截止：9.12] [中国科学院遗传与发育生物学研究所接收2024年推免生（含直博生）报名通知](http://www.genetics.cas.cn/edu/zsxx/xlytms/202308/t20230825_6867669.html)
+
+[截止：9.11] [中国科学院微电子研究所2024年接收推荐免试研究生报名通知](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)
 
 [截止：9.11] [浙江大学计算机学院关于接收2024级推荐免试研究生工作安排的通知](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
 
@@ -199,11 +205,11 @@
 
 [截止：8.31] [北京科技大学钢铁共性技术协同创新中心2024年接收推荐免试硕士研究生（含直博生）预报名的通知](https://cicst.ustb.edu.cn/tzgg1/032c446b1b474ebd9e54dda055087bd5.htm)
 
-[截止：8.28] [哈尔滨工业大学卓越工程师学院2024年推免生（含直博生）接收工作细则](https://ees.hit.edu.cn/2023/0724/c15565a321323/page.htm)
+~~[截止：8.28] [哈尔滨工业大学卓越工程师学院2024年推免生（含直博生）接收工作细则](https://ees.hit.edu.cn/2023/0724/c15565a321323/page.htm)~~
 
-[截止：8.28] [北京大学医学部2024年接收推荐免试研究生办法](https://yjsy.bjmu.edu.cn/zslq/zsjzjml/224069.htm)
+~~[截止：8.28] [北京大学医学部2024年接收推荐免试研究生办法](https://yjsy.bjmu.edu.cn/zslq/zsjzjml/224069.htm)~~
 
-[截止：8.28] [西湖大学工学院2024年博士研究生招生简章](https://engineering.westlake.edu.cn/Admission/GraduateProgram/zszx_2623/202308/t20230808_30695.shtml)
+~~[截止：8.28] [西湖大学工学院2024年博士研究生招生简章](https://engineering.westlake.edu.cn/Admission/GraduateProgram/zszx_2623/202308/t20230808_30695.shtml)~~
 
 ~~[截止：8.27] [南京大学计算机科学与技术系2024年接收推荐免试研究生预报名通知](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)~~
 
