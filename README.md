@@ -31,6 +31,8 @@
 ## 23年计算机夏令营入营通知 [入营通知](https://github.com/jsjby/jsjby23_ruying)
 
 
+[截止：暂无] [深圳大学中国经济特区研究中心2024年硕招推免生预报名](http://www.ccsezr.org.cn/index.php?m=content&c=index&a=show&catid=42&id=277)
+
 [截止：暂无] [兰州大学2024年推免生预报名正在火热进行中](https://mp.weixin.qq.com/s/Wxcp_eBkcwEgW-RkXECF4A)
 
 [截止：暂无] [南京大学智能科学与技术学院三维视觉实验室招生](https://yoyo000.github.io/images/NJU-3DV-2023.pdf)
@@ -165,6 +167,8 @@
 
 [截止：9.15] [复旦大学工程与应用技术研究院2024年推免生招生预选拔工作通知](https://faet.fudan.edu.cn/d3/aa/c23815a512938/page.htm)
 
+[截止：9.15] [复旦大学复杂体系多尺度研究院2024年推免生招生预选拔通知](http://mrics.fudan.edu.cn/info/1028/1399.htm)
+
 [截止：9.15] [上海数学与交叉学科研究院-复旦大学联合培养博士研究生项目开放营](https://gsao.fudan.edu.cn/d1/f6/c15014a512502/page.htm)
 
 [截止：9.15] [复旦大学人类表型组研究院2024年推免生招生预选拔工作通知](https://hupi.fudan.edu.cn/info/1064/2761.htm)
@@ -211,6 +215,8 @@
 
 [截止：9.12] [上海交通大学密西根学院工学类专业 2024年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-08-18/140682/)
 
+[截止：9.12] [中山大学地理科学与规划学院 关于接收2024年优秀应届本科毕业生免试攻读研究生（含直博生）的通知](https://gp.sysu.edu.cn/zh-hans/article/3989)
+
 [截止：9.12] [中国科学院遗传与发育生物学研究所接收2024年推免生（含直博生）报名通知](http://www.genetics.cas.cn/edu/zsxx/xlytms/202308/t20230825_6867669.html)
 
 [截止：9.11] [中国科学院微电子研究所2024年接收推荐免试研究生报名通知](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)
@@ -251,11 +257,11 @@
 
 [截止：9.4] [陕西科技大学数学与数据科学学院2024年硕士研究生优秀生源计划考核细则](https://ce.xidian.edu.cn/info/1324/9261.htm)
 
-[截止：9.3] [中国科学院自动化研究所2024年接收推荐免试生简章](http://www.ia.cas.cn/yjsjy/zs/sszs/202308/t20230817_6863377.html)
+~~[截止：9.3] [中国科学院自动化研究所2024年接收推荐免试生简章](http://www.ia.cas.cn/yjsjy/zs/sszs/202308/t20230817_6863377.html)~~
 
-[截止：9.3] [北京科技大学碳中和研究院2024年接收推荐免试硕士研究生（含直博生）预报名的通知](https://icn.ustb.edu.cn/tzgg/a3fc0cb7b74447b5ae69de0c6465e473.htm)
+~~[截止：9.3] [北京科技大学碳中和研究院2024年接收推荐免试硕士研究生（含直博生）预报名的通知](https://icn.ustb.edu.cn/tzgg/a3fc0cb7b74447b5ae69de0c6465e473.htm)~~
 
-[截止：9.3] [北京科技大学顺德创新学院2024年接收推荐免试硕士研究生预报名通知](https://sd.ustb.edu.cn/tzgg/00f3b597587f4464b1bbf6c54a14a616.htm)
+~~[截止：9.3] [北京科技大学顺德创新学院2024年接收推荐免试硕士研究生预报名通知](https://sd.ustb.edu.cn/tzgg/00f3b597587f4464b1bbf6c54a14a616.htm)~~
 
 ~~[截止：9.1] [西安电子科技大学通信工程学院2023年优秀大学生培优夏令营活动暨推免预选拔工作通知](https://ste.xidian.edu.cn/info/1337/7831.htm)~~
 
