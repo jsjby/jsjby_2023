@@ -31,6 +31,8 @@
 ## 23年计算机夏令营入营通知 [入营通知](https://github.com/jsjby/jsjby23_ruying)
 
 
+[截止：暂无] [重庆大学全国2024届优秀本科毕业生免试攻读重庆大学研究生](https://yz.cqu.edu.cn/news/2023-06/2028.html)
+
 [截止：暂无] [中国科学院信息工程研究所2024年招收推荐免试生的通知](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
 
 [截止：暂无] [华东师范大学2024年接收推荐免试研究生（含直接攻博）预报名的通知](https://yjszs.ecnu.edu.cn/system/yjszsxx_detail.asp?id=202309082011006313191111043m)
