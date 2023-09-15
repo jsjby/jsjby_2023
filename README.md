@@ -161,6 +161,8 @@
 
 [截止：9.28] [东北大学秦皇岛分校光学工程学科接收2024年推免研究生报名通知](https://mp.weixin.qq.com/s/EOhP11SCxbNKBKzpXWzQ_Q)
 
+[截止：9.28] [北京交通大学2024年招收推荐免试攻读硕士（博士） 研究生办法](https://gs.bjtu.edu.cn/cms/zszt/item/2867.html)
+
 [截止：9.28] [首都师范大学2024年接收校内外优秀应届本科毕业生免试攻读博士研究生工作办法](https://grad.cnu.edu.cn/tzgg/eb5f271a082a47c08044afd67c1ec587.htm)
 
 [截止：9.28] [天津大学未来技术学院（国际工程师学院)招收2024级推荐免试攻读硕士学位研究生章程](http://tiei2014.tju.edu.cn/info/1037/2071.htm)
@@ -187,11 +189,13 @@
 
 [截止：9.26] [中国科学院沈阳自动化研究所2024年接收推荐免试研究生的预通知](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202309/t20230904_6870850.html)
 
-[[截止：9.25] [华东理工大学2024年接收外校推荐免试研究生（含直博生）预报名通知 ](https://gschool.ecust.edu.cn/2023/0817/c12708a158196/page.htm)
+[截止：9.25] [华东理工大学2024年接收外校推荐免试研究生（含直博生）预报名通知 ](https://gschool.ecust.edu.cn/2023/0817/c12708a158196/page.htm)
 
-[[截止：9.25] [南京财经大学关于接收2024年推免生预报名工作的通知](http://yjsc.nufe.edu.cn/info/1011/5422.htm)
+[截止：9.25] [南京财经大学关于接收2024年推免生预报名工作的通知](http://yjsc.nufe.edu.cn/info/1011/5422.htm)
 
-[[截止：9.25] [西北农林科技大学2024年接收推荐免试研究生预报名工作的通知](https://yz.nwsuaf.edu.cn/tzgg/3ea88ad9c8674ee59072d883de05f9cf.htm)
+[截止：9.25] [海军工程大学2024年接收外校推荐免试硕士研究生实施办法](https://mp.weixin.qq.com/s/YRW0PsFtUqUMw1gSLXQZ6Q)
+
+[截止：9.25] [西北农林科技大学2024年接收推荐免试研究生预报名工作的通知](https://yz.nwsuaf.edu.cn/tzgg/3ea88ad9c8674ee59072d883de05f9cf.htm)
 
 [截止：9.25] [苏州大学关于接收2024级推荐免试研究生（含直博生）预报名的通知](http://yjs.suda.edu.cn/43/57/c8365a541527/page.htm)
 
@@ -303,6 +307,8 @@
 
 [截止：9.22] [中央音乐学院音乐人工智能方向招本科直博（推免生）、硕士（推免生）开始报名](https://mp.weixin.qq.com/s/nYaCANdtJ2aqUa0cPlcdkA)
 
+[截止：9.22] [中央民族大学2024年接收推荐免试研究生（含直博生）工作安排](https://grs.muc.edu.cn/yjsyzsw/info/1063/3549.htm)
+
 [截止：9.22] [哈尔滨工程大学水声工程学院2024年推免生预报名通知](http://uae.hrbeu.edu.cn/info/1043/3738.htm)
 
 [截止：9.22] [东华大学2024年接收推荐免试攻读硕士研究生预申请公告](https://yjszs.dhu.edu.cn/2023/0815/c7127a328807/page.htm)
@@ -310,6 +316,8 @@
 [截止：9.22] [深圳大学电子与信息工程学院2024推免&直博接收报名](https://mp.weixin.qq.com/s/dtsjM8jjOvnIefdOMFtr8A)
 
 [截止：9.21] [河北工业大学人工智能与数据科学学院2024年接收推免研究生（含直博生）预报名通知](https://ai.hebut.edu.cn/tzgg/d2247a1c7d6a48b281eb2649eb3fe0d9.htm)
+
+[截止：9.21] [北京语言大学2024年接收推免生（含直博生）预报名的通知](http://yjsy.blcu.edu.cn/art/2023/9/15/art_13223_1169581.html)
 
 [截止：9.21] [华中师范大学计算机学院2024年接收推荐免试研究生预报名通知](http://cs.ccnu.edu.cn/info/1056/3475.htm)
 
@@ -403,6 +411,8 @@
 
 [截止：9.19] [北京航空航天大学大科学装置研究院接收推荐免试攻读2024年研究生（含博士）工作方案](https://piqs.buaa.edu.cn/info/1038/1982.htm)
 
+[截止：9.19] [中国海洋大学关于接收2024年推免和创新计划研究生的补充说明](http://yz.ouc.edu.cn/2023/0915/c5926a441844/page.htm)
+
 [截止：9.19] [西安交通大学电子与信息学部微电子学院2024年接收推荐免试研究生预报名的通知](http://ele.xjtu.edu.cn/info/1013/2204.htm)
 
 [截止：9.18] [西安交通大学人工智能与机器人研究所暨人工智能学院关于2024年度推荐免试研究生预报名的通知](http://www.aiar.xjtu.edu.cn/info/1005/2886.htm)
@@ -424,6 +434,8 @@
 [截止：9.18] [复旦大学信息科学与工程学院2024年推免生招生预选拔（第二批）工作通知](http://www.it.fudan.edu.cn/Data/View/4464)
 
 [截止：9.18] [哈尔滨工程大学智能科学与工程学院关于2024年招收免试攻读研究生预报名工作的通知](http://cisse.hrbeu.edu.cn/info/1219/4684.htm)
+
+[截止：9.18] [东北师范大学2024年国家优秀中小学教师培养计划推荐免试硕士研究生招生简章](http://yjsy.nenu.edu.cn/info/1123/5472.htm)
 
 [截止：9.18] [北京航空航天大学软件学院接收推荐免试攻读 2024 年研究生（含博士）工作方案](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10682)
 
