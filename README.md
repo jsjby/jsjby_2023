@@ -123,6 +123,10 @@
 
 [截止：暂无] [河海大学2024年接收校内外推免生预报名公告](https://gs.hhu.edu.cn/2023/0918/c3624a265240/page.htm)
 
+[截止：暂无] [天津工业大学2024年接收优秀应届本科毕业生免试攻读硕士研究生和直接攻读博士研究生办法](https://yjsb.tiangong.edu.cn/2023/0919/c2714a87968/page.htm)
+
+[截止：暂无] [浙江工商大学2024年接收推荐免试攻读博士、硕士学位研究生章程](https://yjszs.zjgsu.edu.cn/2023/0920/c471a143018/page.htm)
+
 [截止：暂无] [西南交通大学 2024年接收推荐免试攻读研究生（含直博生）工作实施办法](http://yz.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=7B4B8DA853D09E24)
 
 [截止：暂无] [徐州医科大学2024年招收推荐免试研究生简章](https://yjs.xzhmu.edu.cn/info/1016/6359.htm)
@@ -270,6 +274,8 @@
 [截止：9.26] [中国科学院沈阳自动化研究所2024年接收推荐免试研究生的预通知](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202309/t20230904_6870850.html)
 
 [截止：9.25] [华东理工大学2024年接收外校推荐免试研究生（含直博生）预报名通知 ](https://gschool.ecust.edu.cn/2023/0817/c12708a158196/page.htm)
+
+[截止：9.25] [华南理工大学2024年推荐免试研究生“乡村振兴学”专业接收交叉学科考生报名通知](https://mp.weixin.qq.com/s/Z0AQoty-04vY9lPd1VTrcA)
 
 [截止：9.25] [南京财经大学关于接收2024年推免生预报名工作的通知](http://yjsc.nufe.edu.cn/info/1011/5422.htm)
 
