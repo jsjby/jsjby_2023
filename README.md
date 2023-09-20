@@ -457,6 +457,8 @@
 
 [截止：9.22] [海南大学2024年接收推荐免试攻读硕士学位研究生预报名公告](https://ha.hainanu.edu.cn/gs/info/1024/4272.htm)
 
+[截止：9.22] [海南大学生命科学学院 2024年接收推荐免试攻读硕士学位研究生预报名公告](https://hd.hainanu.edu.cn/smkx/info/1014/5663.htm)
+
 [截止：9.22] [中央音乐学院音乐人工智能方向招本科直博（推免生）、硕士（推免生）开始报名](https://mp.weixin.qq.com/s/nYaCANdtJ2aqUa0cPlcdkA)
 
 [截止：9.22] [中央民族大学2024年接收推荐免试研究生（含直博生）工作安排](https://grs.muc.edu.cn/yjsyzsw/info/1063/3549.htm)
