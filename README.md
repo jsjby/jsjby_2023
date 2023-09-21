@@ -31,6 +31,8 @@
 ## 23年计算机夏令营入营通知 [入营通知](https://github.com/jsjby/jsjby23_ruying)
 
 
+[截止：暂无] [吉林大学2024年接收优秀应届本科毕业生免试攻读研究生招生简章及专业目录](https://zsb.jlu.edu.cn/info/2978.html)
+
 [截止：暂无] [重庆大学全国2024届优秀本科毕业生免试攻读重庆大学研究生](https://yz.cqu.edu.cn/news/2023-06/2028.html)
 
 [截止：暂无] [重庆大学2024年“国优计划”专项硕士研究生招生简章](https://yz.cqu.edu.cn/news/2023-09/2032.html)
