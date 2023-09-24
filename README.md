@@ -349,7 +349,7 @@
 
 [截止：9.27] [浙江工商大学2024年接收推荐免试攻读博士、硕士学位研究生章程](https://yjszs.zjgsu.edu.cn/2023/0920/c471a143018/page.htm)
 
-[截止：9.267] [西北农林科技大学信息工程学院2024年接收优秀应届本科毕业生免试攻读研究生学位工作实施方案](https://cie.nwsuaf.edu.cn/dtytz/tzgg/5bfdffb95eae4141959d4d9b5c46a778.htm)
+[截止：9.26] [西北农林科技大学信息工程学院2024年接收优秀应届本科毕业生免试攻读研究生学位工作实施方案](https://cie.nwsuaf.edu.cn/dtytz/tzgg/5bfdffb95eae4141959d4d9b5c46a778.htm)
 
 [截止：9.26] [北京邮电大学2024年推荐免试攻读硕士研究生的接收办法](https://yzb.bupt.edu.cn/content/content.php?p=8_4_578)
 
@@ -362,6 +362,8 @@
 [截止：9.26] [北京邮电大学信息与通信工程学院关于接收2024年推荐免试攻读研究生（含直博生）的复试办法](https://sice.bupt.edu.cn/info/1013/2211.htm)
 
 [截止：9.26] [北京邮电大学电子工程学院2024年推荐免试攻读硕士研究生的接收办法](https://see.bupt.edu.cn/info/1047/2597.htm)
+
+[截止：9.26] [四川大学2024年“创新2035”先导计划学科交叉研究生培养专项招生简章](https://yz.scu.edu.cn/zsxx/Details/d9759ee9-dabc-429e-9ad1-d95037861102)
 
 [截止：9.26] [兰州大学2023年“国优计划”专项研究生招生报名的通知](https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2023/0920/227470.html)
 
