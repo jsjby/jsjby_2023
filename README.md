@@ -107,9 +107,11 @@
 
 [截止：10.4] [复旦大学部分项目继续接受推免研究生报名](https://mp.weixin.qq.com/s/JJJ3ouR0P1kg0qTDuPCwsQ)
 
+[截止：10.4] [复旦大学信息科学与工程学院2024年推免研究生招生选拔报名通知](http://www.it.fudan.edu.cn/Data/View/4495)
+
 [截止：10.4] [上海交通大学电院2024年接收推免研究生报名通知（工程硕博士专项、集成电路专项）](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/9090.html)
 
-[截止：10.3] [华南理工大学集成电路学院继续开展2024年集成电路专项推免生选拔工作通知](http://www2.scut.edu.cn/microelectronics/2023/1001/c20312a520412/page.htm)
+~~[截止：10.3] [华南理工大学集成电路学院继续开展2024年集成电路专项推免生选拔工作通知](http://www2.scut.edu.cn/microelectronics/2023/1001/c20312a520412/page.htm)~~
 
 ~~[截止：10.2] [复旦大学计算机科学技术学院2024年推免生 招生选拔（第三批）工作通知](https://cs.fudan.edu.cn/4a/19/c24257a608793/page.htm)~~
 
