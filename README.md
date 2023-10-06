@@ -79,7 +79,13 @@
 
 [截止：10.7] [中国矿业大学人工智能研究院2024年度继续接收推荐免试硕士复试录取工作通知](https://ai.cumt.edu.cn/info/1022/2089.htm)
 
-[截止：10.6] [香港中文大学（深圳）通信工程硕士2024年接收推荐免试研究生说明](https://sse.cuhk.edu.cn/article/145)
+[截止：10.7] [中国科学技术大学软件学院2024级接收推免生面试通知](https://sse.ustc.edu.cn/2023/0929/c19741a613831/page.htm)
+
+[截止：暂无] [华东师范大学通信与电子工程学院2024年产教融合项目（集成电路工程）专业接收优秀应届毕业生免试攻读硕士研究生](https://mp.weixin.qq.com/s/cfQgCYHyD53AnlT538TLuw)
+
+[截止：暂无] [北京理工大学集成电路与电子学院2024年接收推荐免试攻读硕士学位研究生（含直博生）办法](https://mp.weixin.qq.com/s/Fi1nNUyOHTOgNt8PKIjSiA)
+
+[截止：暂无] [北京航天航空大学部分学院持续开通接收推荐免试攻读2024年研究生（含博士）工作](https://mp.weixin.qq.com/s/dsTa3PAKISbSuNWQ9doDhg)
 
 [截止：暂无] [中山大学数学学院2024年推荐免试研究生（补录）接收办法](https://math.sysu.edu.cn/article/3309)
 
@@ -89,27 +95,25 @@
 
 [截止：暂无] [中国科学技术大学新一代信息通信技术领域工程2024年博士（直博）招生](https://yz.ustc.edu.cn/article/2669/182?num=-1)
 
-[截止：10.6] [哈尔滨工程大学计算机科学与技术学院招收第二批推免生信息发布](http://cstc.hrbeu.edu.cn/2023/0929/c3688a316467/page.htm)
+~~[截止：10.6] [哈尔滨工程大学计算机科学与技术学院招收第二批推免生信息发布](http://cstc.hrbeu.edu.cn/2023/0929/c3688a316467/page.htm)~~
 
-[截止：10.6] [华中师范大学人工智能教育学部2024年推免复试（第二批）通知](http://foaie.ccnu.edu.cn/info/1008/6461.htm)
+~~[截止：10.6] [华中师范大学人工智能教育学部2024年推免复试（第二批）通知](http://foaie.ccnu.edu.cn/info/1008/6461.htm)~~
 
-[截止：10.6] [上海科技大学信息科学与技术学院2024年工程博士改革专项推免直博生第二轮报名通知](https://mp.weixin.qq.com/s/wVObBVjGa-7EQNapTDo_IQ)
+~~[截止：10.6] [上海科技大学信息科学与技术学院2024年工程博士改革专项推免直博生第二轮报名通知](https://mp.weixin.qq.com/s/wVObBVjGa-7EQNapTDo_IQ)~~
 
-[截止：暂无] [华东师范大学通信与电子工程学院2024年产教融合项目（集成电路工程）专业接收优秀应届毕业生免试攻读硕士研究生](https://mp.weixin.qq.com/s/cfQgCYHyD53AnlT538TLuw)
+~~[截止：10.6] [香港中文大学（深圳）通信工程硕士2024年接收推荐免试研究生说明](https://sse.cuhk.edu.cn/article/145)~~
 
-[截止：暂无] [北京理工大学集成电路与电子学院2024年接收推荐免试攻读硕士学位研究生（含直博生）办法](https://mp.weixin.qq.com/s/Fi1nNUyOHTOgNt8PKIjSiA)
+~~[截止：10.5] [南京大学2024年接收“工程硕博士培养改革专项” 推荐免试研究生报名的通知](https://yzb.nju.edu.cn/be/f7/c47863a638711/page.htm)~~
 
-[截止：10.5] [南京大学2024年接收“工程硕博士培养改革专项” 推荐免试研究生报名的通知](https://yzb.nju.edu.cn/be/f7/c47863a638711/page.htm)
+~~[截止：10.5] [南开大学统计与数据科学学院2024年研究生推免考核报名通知](https://gsao.fudan.edu.cn/30/c1/c15014a602305/page.htm)~~
 
-[截止：10.5] [南开大学统计与数据科学学院2024年研究生推免考核报名通知](https://gsao.fudan.edu.cn/30/c1/c15014a602305/page.htm)
+~~[截止：10.4] [中国海洋大学信息科学与工程学部接收2024年第二批次推荐免试研究生的通知](https://it.ouc.edu.cn/2023/0929/c21608a443774/page.htm)~~
 
-[截止：10.4] [中国海洋大学信息科学与工程学部接收2024年第二批次推荐免试研究生的通知](https://it.ouc.edu.cn/2023/0929/c21608a443774/page.htm)
+~~[截止：10.4] [复旦大学部分项目继续接受推免研究生报名](https://mp.weixin.qq.com/s/JJJ3ouR0P1kg0qTDuPCwsQ)~~
 
-[截止：10.4] [复旦大学部分项目继续接受推免研究生报名](https://mp.weixin.qq.com/s/JJJ3ouR0P1kg0qTDuPCwsQ)
+~~[截止：10.4] [复旦大学信息科学与工程学院2024年推免研究生招生选拔报名通知](http://www.it.fudan.edu.cn/Data/View/4495)~~
 
-[截止：10.4] [复旦大学信息科学与工程学院2024年推免研究生招生选拔报名通知](http://www.it.fudan.edu.cn/Data/View/4495)
-
-[截止：10.4] [上海交通大学电院2024年接收推免研究生报名通知（工程硕博士专项、集成电路专项）](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/9090.html)
+~~[截止：10.4] [上海交通大学电院2024年接收推免研究生报名通知（工程硕博士专项、集成电路专项）](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/9090.html)~~
 
 ~~[截止：10.3] [华南理工大学集成电路学院继续开展2024年集成电路专项推免生选拔工作通知](http://www2.scut.edu.cn/microelectronics/2023/1001/c20312a520412/page.htm)~~
 
