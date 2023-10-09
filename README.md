@@ -73,6 +73,8 @@
 
 [截止：10.15] [南方科技大学系统设计与智能制造学院接收2024年推免研究生报名通知](https://sdim.sustech.edu.cn/index/show?id=290)
 
+[截止：10.14] [中国科学院杭州高等研究院智能科学与技术学院接收2024级推荐免试生公告（第二批）](http://hias.ucas.ac.cn/znkxyjs/info/1055/1584.htm)
+
 [截止：暂无] [江南大学物联网工程学院2024年推免生第二轮报名工作通知](http://iot.jiangnan.edu.cn/info/1055/5991.htm)
 
 [截止：暂无] [华东师范大学通信与电子工程学院2024年产教融合项目（集成电路工程）专业接收优秀应届毕业生免试攻读硕士研究生](https://mp.weixin.qq.com/s/cfQgCYHyD53AnlT538TLuw)
@@ -98,6 +100,8 @@
 [截止：暂无] [北京工业大学部分专业继续接收2024年推免生报名申请工作的通知](https://mp.weixin.qq.com/s/NJA9XdrIEmqAvG6dDzE5Uw)
 
 [截止：10.10] [河北工程大学2024年接收推免生章程](https://yanjs.hebeu.edu.cn/info/1089/6213.htm)
+
+[截止：10.10] [福州大学物理与信息工程学院2024年接收推免生复试通知（第二批）](https://wx.fzu.edu.cn/info/1038/4762.htm)
 
 [截止：10.9] [天津医科大学2024年第二轮推荐免试接收工作报名的通知](http://gs.tmu.edu.cn/2023/1007/c3146a67165/page.htm)
 
