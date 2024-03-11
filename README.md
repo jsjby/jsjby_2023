@@ -1966,8 +1966,6 @@ __biz=MzkzNjM4MDA0NA==&mid=2247483780&idx=3&sn=11fd7b14f9b37bf0dadd4ed0c5ad2b7f&
 
 
 
-### 计算机保研交流一群：1080150860（近2000人）
-<img src="https://github.com/jsjby/jsjby_2023/blob/main/images/微信9.jpg" width="80%">
 
 
 ### 计算机保研各个高校面试资料领取（500多页）
